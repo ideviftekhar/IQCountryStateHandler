@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<string>Afghanistan</string>
+	<key>002</key>
+	<string>Albania</string>
+	<key>003</key>
+	<string>Algeria</string>
+	<key>004</key>
+	<string>Angola</string>
+	<key>005</key>
+	<string>Antarctica</string>
+	<key>006</key>
+	<string>Argentina</string>
+	<key>007</key>
+	<string>Armenia</string>
+	<key>008</key>
+	<string>Australia</string>
+	<key>009</key>
+	<string>Austria</string>
+	<key>010</key>
+	<string>Azerbaijan</string>
+	<key>011</key>
+	<string>Bahamas</string>
+	<key>012</key>
+	<string>Bahrain</string>
+	<key>013</key>
+	<string>Bangladesh</string>
+	<key>014</key>
+	<string>Belarus</string>
+	<key>015</key>
+	<string>Belgium</string>
+	<key>016</key>
+	<string>Belize</string>
+	<key>017</key>
+	<string>Benin</string>
+	<key>018</key>
+	<string>Bhutan</string>
+	<key>019</key>
+	<string>Bolivia</string>
+	<key>020</key>
+	<string>Bosnia and Herzegovina</string>
+	<key>021</key>
+	<string>Botswana</string>
+	<key>022</key>
+	<string>Brazil</string>
+	<key>023</key>
+	<string>Brunei Darussalam</string>
+	<key>024</key>
+	<string>Bulgaria</string>
+	<key>025</key>
+	<string>Burkina Faso</string>
+	<key>026</key>
+	<string>Burundi</string>
+	<key>027</key>
+	<string>Cambodia</string>
+	<key>028</key>
+	<string>Cameroon</string>
+	<key>029</key>
+	<string>Canada</string>
+	<key>030</key>
+	<string>Cape Verde</string>
+	<key>031</key>
+	<string>Central African Republic</string>
+	<key>032</key>
+	<string>Chad</string>
+	<key>033</key>
+	<string>Chile</string>
+	<key>034</key>
+	<string>China</string>
+	<key>035</key>
+	<string>Colombia</string>
+	<key>036</key>
+	<string>Comoros</string>
+	<key>037</key>
+	<string>Congo</string>
+	<key>038</key>
+	<string>Congo, The Democratic Republic of the</string>
+	<key>039</key>
+	<string>Costa Rica</string>
+	<key>040</key>
+	<string>Croatia</string>
+	<key>041</key>
+	<string>Cuba</string>
+	<key>042</key>
+	<string>Cyprus</string>
+	<key>043</key>
+	<string>Czech Republic</string>
+	<key>044</key>
+	<string>Denmark</string>
+	<key>045</key>
+	<string>Djibouti</string>
+	<key>046</key>
+	<string>Dominican Republic</string>
+	<key>047</key>
+	<string>Ecuador</string>
+	<key>048</key>
+	<string>Egypt</string>
+	<key>049</key>
+	<string>El Salvador</string>
+	<key>050</key>
+	<string>Equatorial Guinea</string>
+	<key>051</key>
+	<string>Eritrea</string>
+	<key>052</key>
+	<string>Estonia</string>
+	<key>053</key>
+	<string>Ethiopia</string>
+	<key>054</key>
+	<string>Fiji</string>
+	<key>055</key>
+	<string>Finland</string>
+	<key>056</key>
+	<string>France</string>
+	<key>057</key>
+	<string>Gambia</string>
+	<key>058</key>
+	<string>Germany</string>
+	<key>059</key>
+	<string>Ghana</string>
+	<key>060</key>
+	<string>Greece</string>
+	<key>061</key>
+	<string>Guatemala</string>
+	<key>062</key>
+	<string>Guinea</string>
+	<key>063</key>
+	<string>Guinea-Bissau</string>
+	<key>064</key>
+	<string>Guyana</string>
+	<key>065</key>
+	<string>Haiti</string>
+	<key>066</key>
+	<string>Honduras</string>
+	<key>067</key>
+	<string>Hong Kong</string>
+	<key>068</key>
+	<string>Hungary</string>
+	<key>069</key>
+	<string>Iceland</string>
+	<key>070</key>
+	<string>India</string>
+	<key>071</key>
+	<string>Indonesia</string>
+	<key>072</key>
+	<string>Iran, Islamic Republic of</string>
+	<key>073</key>
+	<string>Iraq</string>
+	<key>074</key>
+	<string>Ireland</string>
+	<key>075</key>
+	<string>Israel</string>
+	<key>076</key>
+	<string>Italy</string>
+	<key>077</key>
+	<string>Jamaica</string>
+	<key>078</key>
+	<string>Japan</string>
+	<key>079</key>
+	<string>Jordan</string>
+	<key>080</key>
+	<string>Kazakhstan</string>
+	<key>081</key>
+	<string>Kenya</string>
+	<key>082</key>
+	<string>Kiribati</string>
+	<key>083</key>
+	<string>Korea, Democratic People's Republic of</string>
+	<key>084</key>
+	<string>Korea, Republic of</string>
+	<key>085</key>
+	<string>Kuwait</string>
+	<key>086</key>
+	<string>Kyrgyzstan</string>
+	<key>087</key>
+	<string>Lao People's Democratic Republic</string>
+	<key>088</key>
+	<string>Latvia</string>
+	<key>089</key>
+	<string>Lebanon</string>
+	<key>090</key>
+	<string>Lesotho</string>
+	<key>091</key>
+	<string>Liberia</string>
+	<key>092</key>
+	<string>Libyan Arab Jamahiriya</string>
+	<key>093</key>
+	<string>Lithuania</string>
+	<key>094</key>
+	<string>Luxembourg</string>
+	<key>095</key>
+	<string>Madagascar</string>
+	<key>096</key>
+	<string>Malawi</string>
+	<key>097</key>
+	<string>Malaysia</string>
+	<key>098</key>
+	<string>Maldives</string>
+	<key>099</key>
+	<string>Mali</string>
+	<key>100</key>
+	<string>Marshall Islands</string>
+	<key>101</key>
+	<string>Mauritania</string>
+	<key>102</key>
+	<string>Mauritius</string>
+	<key>103</key>
+	<string>Mexico</string>
+	<key>104</key>
+	<string>Micronesia, Federated States of</string>
+	<key>105</key>
+	<string>Moldova</string>
+	<key>106</key>
+	<string>Mongolia</string>
+	<key>107</key>
+	<string>Morocco</string>
+	<key>108</key>
+	<string>Mozambique</string>
+	<key>109</key>
+	<string>Myanmar</string>
+	<key>110</key>
+	<string>Namibia</string>
+	<key>111</key>
+	<string>Netherlands</string>
+	<key>112</key>
+	<string>New Zealand</string>
+	<key>113</key>
+	<string>Nicaragua</string>
+	<key>114</key>
+	<string>Niger</string>
+	<key>115</key>
+	<string>Nigeria</string>
+	<key>116</key>
+	<string>Norway</string>
+	<key>117</key>
+	<string>Oman</string>
+	<key>118</key>
+	<string>ôte d'Ivoire</string>
+	<key>119</key>
+	<string>Pakistan</string>
+	<key>120</key>
+	<string>Palestinian Territory, Occupied</string>
+	<key>121</key>
+	<string>Panama</string>
+	<key>122</key>
+	<string>Papua New Guinea</string>
+	<key>123</key>
+	<string>Paraguay</string>
+	<key>124</key>
+	<string>Peru</string>
+	<key>125</key>
+	<string>Philippines</string>
+	<key>126</key>
+	<string>Poland</string>
+	<key>127</key>
+	<string>Portugal</string>
+	<key>128</key>
+	<string>Qatar</string>
+	<key>129</key>
+	<string>Romania</string>
+	<key>130</key>
+	<string>Russian Federation</string>
+	<key>131</key>
+	<string>Rwanda</string>
+	<key>132</key>
+	<string>Saint Helena</string>
+	<key>133</key>
+	<string>Samoa</string>
+	<key>134</key>
+	<string>Sao Tome and Principe</string>
+	<key>135</key>
+	<string>Saudi Arabia</string>
+	<key>136</key>
+	<string>Senegal</string>
+	<key>137</key>
+	<string>Serbia and Montenegro</string>
+	<key>138</key>
+	<string>Sierra Leone</string>
+	<key>139</key>
+	<string>Slovakia</string>
+	<key>140</key>
+	<string>Slovenia</string>
+	<key>141</key>
+	<string>Solomon Islands</string>
+	<key>142</key>
+	<string>Somalia</string>
+	<key>143</key>
+	<string>South Africa</string>
+	<key>144</key>
+	<string>Spain</string>
+	<key>145</key>
+	<string>Sri Lanka</string>
+	<key>146</key>
+	<string>Sudan</string>
+	<key>147</key>
+	<string>Suriname</string>
+	<key>148</key>
+	<string>Swaziland</string>
+	<key>149</key>
+	<string>Sweden</string>
+	<key>150</key>
+	<string>Switzerland</string>
+	<key>151</key>
+	<string>Syrian Arab Republic</string>
+	<key>152</key>
+	<string>Taiwan</string>
+	<key>153</key>
+	<string>Tajikistan</string>
+	<key>154</key>
+	<string>Tanzania, United Republic of</string>
+	<key>155</key>
+	<string>Thailand</string>
+	<key>156</key>
+	<string>Timor-Leste</string>
+	<key>157</key>
+	<string>Togo</string>
+	<key>158</key>
+	<string>Trinidad and Tobago</string>
+	<key>159</key>
+	<string>Tunisia</string>
+	<key>160</key>
+	<string>Turkey</string>
+	<key>161</key>
+	<string>Turkmenistan</string>
+	<key>162</key>
+	<string>Uganda</string>
+	<key>163</key>
+	<string>Ukraine</string>
+	<key>164</key>
+	<string>United Arab Emirates</string>
+	<key>165</key>
+	<string>United Kingdom</string>
+	<key>166</key>
+	<string>United States</string>
+	<key>167</key>
+	<string>United States Minor Outlying Islands</string>
+	<key>168</key>
+	<string>Uruguay</string>
+	<key>169</key>
+	<string>Uzbekistan</string>
+	<key>170</key>
+	<string>Vanuatu</string>
+	<key>171</key>
+	<string>Venezuela</string>
+	<key>172</key>
+	<string>Viet Nam</string>
+	<key>173</key>
+	<string>Yemen</string>
+	<key>174</key>
+	<string>Zambia</string>
+	<key>175</key>
+	<string>Zimbabwe</string>
+</dict>
+</plist>

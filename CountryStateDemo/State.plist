@@ -1,0 +1,4240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Afghanistan</key>
+	<array>
+		<string>Badakhshan</string>
+		<string>Badghis</string>
+		<string>Baghlan</string>
+		<string>Balkh</string>
+		<string>Bamian</string>
+		<string>Farah</string>
+		<string>Faryab</string>
+		<string>Ghazni</string>
+		<string>Ghowr</string>
+		<string>Helmand</string>
+		<string>Herat</string>
+		<string>Jowzjan</string>
+		<string>Kabul</string>
+		<string>Kandahar</string>
+		<string>Kapisa</string>
+		<string>Khowst</string>
+		<string>Konar</string>
+		<string>Kondoz</string>
+		<string>Laghman</string>
+		<string>Lowgar</string>
+		<string>Nangrahar</string>
+		<string>Nimruz</string>
+		<string>Nurestan</string>
+		<string>Oruzgan</string>
+		<string>Paktia</string>
+		<string>Paktika</string>
+		<string>Parwan</string>
+		<string>Samangan</string>
+		<string>Sar-e Pol</string>
+		<string>Takhar</string>
+		<string>Wardak</string>
+		<string>Zabol</string>
+	</array>
+	<key>Albania</key>
+	<array>
+		<string>Berat</string>
+		<string>çovë</string>
+		<string>Devoll</string>
+		<string>Elbasan</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ë</string>
+		<string>ër</string>
+		<string>ër</string>
+		<string>ër</string>
+		<string>ër</string>
+		<string>ërmet</string>
+		<string>ës</string>
+		<string>ës</string>
+		<string>ësi e Madhe</string>
+		<string>Fier</string>
+		<string>Gramsh</string>
+		<string>Has</string>
+		<string>Kurbin</string>
+		<string>Librazhd</string>
+		<string>Mat</string>
+		<string>Peqin</string>
+		<string>Pogradec</string>
+		<string>Skrapar</string>
+	</array>
+	<key>Algeria</key>
+	<array>
+		<string>Adrar</string>
+		<string>Ain Defla</string>
+		<string>Ain Tmouchent</string>
+		<string>Alger</string>
+		<string>Annaba</string>
+		<string>Batna</string>
+		<string>Bechar</string>
+		<string>Bejaia</string>
+		<string>Biskra</string>
+		<string>Blida</string>
+		<string>Bordj Bou Arreridj</string>
+		<string>Bouira</string>
+		<string>Boumerdes</string>
+		<string>Chlef</string>
+		<string>Constantine</string>
+		<string>Djelfa</string>
+		<string>El Bayadh</string>
+		<string>El Oued</string>
+		<string>El Tarf</string>
+		<string>Ghardaia</string>
+		<string>Guelma</string>
+		<string>Illizi</string>
+		<string>Jijel</string>
+		<string>Khenchela</string>
+		<string>Laghouat</string>
+		<string>Mascara</string>
+		<string>Medea</string>
+		<string>Mila</string>
+		<string>Mostaganem</string>
+		<string>Msila</string>
+		<string>Naama</string>
+		<string>Oran</string>
+		<string>Ouargla</string>
+		<string>Oum el Bouaghi</string>
+		<string>Relizane</string>
+		<string>Saida</string>
+		<string>Setif</string>
+		<string>Sidi Bel Abbes</string>
+		<string>Skikda</string>
+		<string>Souk Ahras</string>
+		<string>Tamanghasset</string>
+		<string>Tebessa</string>
+		<string>Tiaret</string>
+		<string>Tindouf</string>
+		<string>Tipaza</string>
+		<string>Tissemsilt</string>
+		<string>Tizi Ouzou</string>
+		<string>Tlemcen</string>
+	</array>
+	<key>Angola</key>
+	<array>
+		<string>Bengo</string>
+		<string>Benguela</string>
+		<string>Bie</string>
+		<string>Cabinda</string>
+		<string>Cuando-Cubango</string>
+		<string>Cuanza Norte</string>
+		<string>Cuanza Sul</string>
+		<string>Cunene</string>
+		<string>Huambo</string>
+		<string>Huila</string>
+		<string>Luanda</string>
+		<string>Lunda Norte</string>
+		<string>Lunda Sul</string>
+		<string>Malange</string>
+		<string>Moxico</string>
+		<string>Namibe</string>
+		<string>Uige</string>
+		<string>Zaire</string>
+	</array>
+	<key>Antarctica</key>
+	<array>
+		<string>Australian Antarctic Territory</string>
+	</array>
+	<key>Argentina</key>
+	<array>
+		<string>Buenos Aires</string>
+		<string>Capital federal</string>
+		<string>Catamarca</string>
+		<string>Chaco</string>
+		<string>Chubut</string>
+		<string>Cordoba</string>
+		<string>Corrientes</string>
+		<string>Entre Rios</string>
+		<string>Formosa</string>
+		<string>Jujuy</string>
+		<string>La Pampa</string>
+		<string>Mendoza</string>
+		<string>Misiones</string>
+		<string>Neuquen</string>
+		<string>Rio Negro</string>
+		<string>Salta</string>
+		<string>San Juan</string>
+		<string>San Luis</string>
+		<string>Santa Cruz</string>
+		<string>Santa Fe</string>
+		<string>Santiago del Estero</string>
+		<string>Tierra del Fuego</string>
+		<string>Tucuman</string>
+	</array>
+	<key>Armenia</key>
+	<array>
+		<string>Aragacotn</string>
+		<string>Ararat</string>
+		<string>Armavir</string>
+		<string>Erevan</string>
+		<string>Gegarkunik'</string>
+		<string>Kotayk'</string>
+		<string>Lory</string>
+		<string>Sirak</string>
+		<string>Syunik'</string>
+		<string>Tavus</string>
+		<string>Vayoc Jor</string>
+	</array>
+	<key>Australia</key>
+	<array>
+		<string>Australian Capital Territory</string>
+		<string>New South Wales</string>
+		<string>Northern Territory</string>
+		<string>Queensland</string>
+		<string>South Australia</string>
+		<string>Tasmania</string>
+		<string>Victoria</string>
+		<string>Western Australia</string>
+	</array>
+	<key>Austria</key>
+	<array>
+		<string>ärnten</string>
+		<string>Burgenland</string>
+		<string>Niederosterreich</string>
+		<string>Oberosterreich</string>
+		<string>Salzburg</string>
+		<string>Steiermark</string>
+		<string>Tirol</string>
+		<string>Vorarlberg</string>
+		<string>Wien</string>
+	</array>
+	<key>Azerbaijan</key>
+	<array>
+		<string>Abseron</string>
+		<string>Agcabadi</string>
+		<string>Agdam</string>
+		<string>Agdas</string>
+		<string>Agstafa</string>
+		<string>Agsu</string>
+		<string>Ali Bayramli</string>
+		<string>Astara</string>
+		<string>Babak</string>
+		<string>Baki</string>
+		<string>Balakan</string>
+		<string>Barda</string>
+		<string>Beylagan</string>
+		<string>Bilasuvar</string>
+		<string>Cabrayll</string>
+		<string>Calilabad</string>
+		<string>Culfa</string>
+		<string>Daskasan</string>
+		<string>Davaci</string>
+		<string>Fuzuli</string>
+		<string>Gadabay</string>
+		<string>Ganca</string>
+		<string>Goranboy</string>
+		<string>Goycay</string>
+		<string>Haciqabul</string>
+		<string>Imisli</string>
+		<string>Ismayilli</string>
+		<string>Kalbacar</string>
+		<string>Kurdamir</string>
+		<string>Lacin</string>
+		<string>Lankaran</string>
+		<string>Lerik</string>
+		<string>Masalli</string>
+		<string>Mingacevir</string>
+		<string>Naftalan</string>
+		<string>Naxcivan</string>
+		<string>Neftcala</string>
+		<string>Oguz</string>
+		<string>Ordubad</string>
+		<string>Qabala</string>
+		<string>Qax</string>
+		<string>Qazax</string>
+		<string>Qobustan</string>
+		<string>Quba</string>
+		<string>Qubadli</string>
+		<string>Qusar</string>
+		<string>Saatli</string>
+		<string>Sabirabad</string>
+		<string>Sadarak</string>
+		<string>Sahbuz</string>
+		<string>Saki</string>
+		<string>Salyan</string>
+		<string>Samaxi</string>
+		<string>Samkir</string>
+		<string>Samux</string>
+		<string>Sarur</string>
+		<string>Siyazan</string>
+		<string>Sumqayit</string>
+		<string>Susa</string>
+		<string>Tartar</string>
+		<string>Tovuz</string>
+		<string>Ucar</string>
+		<string>Xacmaz</string>
+		<string>Xankandi</string>
+		<string>Xanlar</string>
+		<string>Xizi</string>
+		<string>Xocali</string>
+		<string>Xocavand</string>
+		<string>Yardimli</string>
+		<string>Yevlax</string>
+		<string>Zangilan</string>
+		<string>Zaqatala</string>
+		<string>Zardab</string>
+	</array>
+	<key>Bahamas</key>
+	<array>
+		<string>Acklins and Crooked Islands</string>
+		<string>Bimini</string>
+		<string>Cat Island</string>
+		<string>Exuma</string>
+		<string>Freeport</string>
+		<string>Fresh Creek</string>
+		<string>Governor's Harbour</string>
+		<string>Green Turtle Cay</string>
+		<string>Harbour Island</string>
+		<string>High Rock</string>
+		<string>Inagua</string>
+		<string>Kemps Bay</string>
+		<string>Long Island</string>
+		<string>Marsh Harbour</string>
+		<string>Mayaguana</string>
+		<string>New Providence</string>
+		<string>Nicholls Town and Berry Islands</string>
+		<string>Ragged Island</string>
+		<string>Rock Sound</string>
+		<string>San Salvador and Rum Cay</string>
+		<string>Sandy Point</string>
+	</array>
+	<key>Bahrain</key>
+	<array>
+		<string>Al Hadd</string>
+		<string>Al Manamah</string>
+		<string>Al Mintagah al Wusta</string>
+		<string>Al Mintaqah al Gharbiyah</string>
+		<string>Al Mintaqah ash Shamaliyah</string>
+		<string>Al Muharraq</string>
+		<string>Ar Rifa</string>
+		<string>ālīyah</string>
+		<string>āmah (Al ‘Āşimah)</string>
+		<string>Jidd Hafs</string>
+		<string>Madluat Isa</string>
+		<string>Madluat Jamad</string>
+		<string>Mintaqat Juzur tawar</string>
+		<string>Sitrah</string>
+		<string>ţá</string>
+		<string>ūbīyah</string>
+	</array>
+	<key>Bangladesh</key>
+	<array>
+		<string>Bagerhat zila</string>
+		<string>Bandarban zila</string>
+		<string>Barguna zila</string>
+		<string>Barisal zila</string>
+		<string>Bhola zila</string>
+		<string>Bogra zila</string>
+		<string>Brahmanbaria zila</string>
+		<string>Chandpur zila</string>
+		<string>Chittagong zila</string>
+		<string>Chuadanga zila</string>
+		<string>Comilla zila</string>
+		<string>Cox's Bazar zila</string>
+		<string>Dhaka zila</string>
+		<string>Dinajpur zila</string>
+		<string>Faridpur zila</string>
+		<string>Feni zila</string>
+		<string>Gaibandha zila</string>
+		<string>Gazipur zila</string>
+		<string>Gopalganj zila</string>
+		<string>Habiganj zila</string>
+		<string>Jaipurhat zila</string>
+		<string>Jamalpur zila</string>
+		<string>Jessore zila</string>
+		<string>Jhalakati zila</string>
+		<string>Jhenaidah zila</string>
+		<string>Khagrachari zila</string>
+		<string>Khulna zila</string>
+		<string>Kishorganj zila</string>
+		<string>Kurigram zila</string>
+		<string>Kushtia zila</string>
+		<string>Lakshmipur zila</string>
+		<string>Lalmonirhat zila</string>
+		<string>Madaripur zila</string>
+		<string>Magura zila</string>
+		<string>Manikganj zila</string>
+		<string>Meherpur zila</string>
+		<string>Moulvibazar zila</string>
+		<string>Munshiganj zila</string>
+		<string>Mymensingh zila</string>
+		<string>Naogaon zila</string>
+		<string>Narail zila</string>
+		<string>Narayanganj zila</string>
+		<string>Narsingdi zila</string>
+		<string>Natore zila</string>
+		<string>Nawabganj zila</string>
+		<string>Netrakona zila</string>
+		<string>Nilphamari zila</string>
+		<string>Noakhali zila</string>
+		<string>Pabna zila</string>
+		<string>Panchagarh zila</string>
+		<string>Patuakhali zila</string>
+		<string>Pirojpur zila</string>
+		<string>Rajbari zila</string>
+		<string>Rajshahi zila</string>
+		<string>Rangamati zila</string>
+		<string>Rangpur zila</string>
+		<string>Satkhira zila</string>
+		<string>Shariatpur zila</string>
+		<string>Sherpur zila</string>
+		<string>Sirajganj zila</string>
+		<string>Sunamganj zila</string>
+		<string>Sylhet zila</string>
+		<string>Tangail zila</string>
+		<string>Thakurgaon zila</string>
+	</array>
+	<key>Belarus</key>
+	<array>
+		<string>èsckaja voblasc'</string>
+		<string>ëuskaja voblasc'</string>
+		<string>Homel'skaja voblasc'</string>
+		<string>Hrodzenskaja voblasc'</string>
+		<string>Minskaja voblasc'</string>
+		<string>Vicebskaja voblasc'</string>
+	</array>
+	<key>Belgium</key>
+	<array>
+		<string>Antwerpen</string>
+		<string>Brabant Wallon</string>
+		<string>Brussels</string>
+		<string>Hainaut</string>
+		<string>Liege</string>
+		<string>Limburg</string>
+		<string>Luxembourg</string>
+		<string>Namur</string>
+		<string>Oost-Vlaanderen</string>
+		<string>Vlaams-Brabant</string>
+		<string>West-Vlaanderen</string>
+	</array>
+	<key>Belize</key>
+	<array>
+		<string>Belize</string>
+		<string>Cayo</string>
+		<string>Corozal</string>
+		<string>Orange Walk</string>
+		<string>Stann Creek</string>
+		<string>Toledo</string>
+	</array>
+	<key>Benin</key>
+	<array>
+		<string>Alibori</string>
+		<string>Atakora</string>
+		<string>Atlantique</string>
+		<string>Borgou</string>
+		<string>Collines</string>
+		<string>Donga</string>
+		<string>Kouffo</string>
+		<string>Littoral</string>
+		<string>Mono</string>
+		<string>Oueme</string>
+		<string>Plateau</string>
+		<string>Zou</string>
+	</array>
+	<key>Bhutan</key>
+	<array>
+		<string>Bumthang</string>
+		<string>Chhukha</string>
+		<string>Dagana</string>
+		<string>Gasa</string>
+		<string>Ha</string>
+		<string>Lhuentse</string>
+		<string>Monggar</string>
+		<string>Paro</string>
+		<string>Pemagatshel</string>
+		<string>Punakha</string>
+		<string>Samdrup Jongkha</string>
+		<string>Samtee</string>
+		<string>Sarpang</string>
+		<string>Thimphu</string>
+		<string>Trashi Yangtse</string>
+		<string>Trashigang</string>
+		<string>Trongsa</string>
+		<string>Tsirang</string>
+		<string>Wangdue Phodrang</string>
+		<string>Zhemgang</string>
+	</array>
+	<key>Bolivia</key>
+	<array>
+		<string>Chuquisaca</string>
+		<string>Cochabamba</string>
+		<string>El Beni</string>
+		<string>La Paz</string>
+		<string>Oruro</string>
+		<string>Pando</string>
+		<string>Potosi</string>
+		<string>Tarija</string>
+	</array>
+	<key>Bosnia and Herzegovina</key>
+	<array>
+		<string>Federacija Bosna i Hercegovina</string>
+		<string>Republika Srpska</string>
+	</array>
+	<key>Botswana</key>
+	<array>
+		<string>Central</string>
+		<string>Ghanzi</string>
+		<string>Kgalagadi</string>
+		<string>Kgatleng</string>
+		<string>Kweneng</string>
+		<string>Ngamiland</string>
+		<string>North-East</string>
+		<string>North-West</string>
+		<string>South-East</string>
+		<string>Southern</string>
+	</array>
+	<key>Brazil</key>
+	<array>
+		<string>Acre</string>
+		<string>Alagoas</string>
+		<string>Amapa</string>
+		<string>Amazonas</string>
+		<string>Baia</string>
+		<string>Ceara</string>
+		<string>Distrito Federal</string>
+		<string>Espirito Santo</string>
+		<string>Fernando de Noronha</string>
+		<string>Goias</string>
+		<string>Maranhao</string>
+		<string>Mato Grosso</string>
+		<string>Mato Grosso do Sul</string>
+		<string>Minas Gerais</string>
+		<string>Para</string>
+		<string>Paraiba</string>
+		<string>Parana</string>
+		<string>Pernambuco</string>
+		<string>Piaui</string>
+		<string>Rio de Janeiro</string>
+		<string>Rio Grande do Norte</string>
+		<string>Rio Grande do Sul</string>
+		<string>Rondonia</string>
+		<string>Roraima</string>
+		<string>Santa Catarina</string>
+		<string>Sao Paulo</string>
+		<string>Sergipe</string>
+		<string>Tocatins</string>
+	</array>
+	<key>Brunei Darussalam</key>
+	<array>
+		<string>Belait</string>
+		<string>Brunei-Muara</string>
+		<string>Temburong</string>
+		<string>Tutong</string>
+	</array>
+	<key>Bulgaria</key>
+	<array>
+		<string>Blagoevgrad</string>
+		<string>Burgas</string>
+		<string>Dobric</string>
+		<string>Gabrovo</string>
+		<string>Haskovo</string>
+		<string>Jambol</string>
+		<string>Kardzali</string>
+		<string>Kjstendil</string>
+		<string>Lovec</string>
+		<string>Montana</string>
+		<string>Pazardzik</string>
+		<string>Pernik</string>
+		<string>Pleven</string>
+		<string>Plovdiv</string>
+		<string>Razgrad</string>
+		<string>Ruse</string>
+		<string>Silistra</string>
+		<string>Sliven</string>
+		<string>Smoljan</string>
+		<string>Sofia</string>
+		<string>Stara Zagora</string>
+		<string>Sumen</string>
+		<string>Targoviste</string>
+		<string>Varna</string>
+		<string>Veliko Tarnovo</string>
+		<string>Vidin</string>
+		<string>Vraca</string>
+	</array>
+	<key>Burkina Faso</key>
+	<array>
+		<string>Bale</string>
+		<string>Bam</string>
+		<string>Banwa</string>
+		<string>Bazega</string>
+		<string>Bougouriba</string>
+		<string>Boulgou</string>
+		<string>Boulkiemde</string>
+		<string>Comoe</string>
+		<string>Ganzourgou</string>
+		<string>Gnagna</string>
+		<string>Gourma</string>
+		<string>Houet</string>
+		<string>Ioba</string>
+		<string>Kadiogo</string>
+		<string>Kenedougou</string>
+		<string>Komondjari</string>
+		<string>Kompienga</string>
+		<string>Kossi</string>
+		<string>Koulpulogo</string>
+		<string>Kouritenga</string>
+		<string>Kourweogo</string>
+		<string>Leraba</string>
+		<string>Loroum</string>
+		<string>Mouhoun</string>
+		<string>Nahouri</string>
+		<string>Namentenga</string>
+		<string>Nayala</string>
+		<string>Noumbiel</string>
+		<string>Oubritenga</string>
+		<string>Oudalan</string>
+		<string>Passore</string>
+		<string>Poni</string>
+		<string>Sanguie</string>
+		<string>Sanmatenga</string>
+		<string>Seno</string>
+		<string>Siasili</string>
+		<string>Soum</string>
+		<string>Sourou</string>
+		<string>Tapoa</string>
+		<string>Tui</string>
+		<string>Yagha</string>
+		<string>Yatenga</string>
+		<string>Ziro</string>
+		<string>Zondoma</string>
+		<string>Zoundweogo</string>
+	</array>
+	<key>Burundi</key>
+	<array>
+		<string>Bubanza</string>
+		<string>Bujumbura</string>
+		<string>Bururi</string>
+		<string>Cankuzo</string>
+		<string>Cibitoke</string>
+		<string>Gitega</string>
+		<string>Karuzi</string>
+		<string>Kayanza</string>
+		<string>Makamba</string>
+		<string>Muramvya</string>
+		<string>Mwaro</string>
+		<string>Ngozi</string>
+		<string>Rutana</string>
+		<string>Ruyigi</string>
+	</array>
+	<key>Cambodia</key>
+	<array>
+		<string>Baat Dambang</string>
+		<string>Banteay Mean Chey</string>
+		<string>Kach Kong</string>
+		<string>Kampong Chhnang</string>
+		<string>Kampong Spueu</string>
+		<string>Kampong Thum</string>
+		<string>Kampot</string>
+		<string>Kandaal</string>
+		<string>Krachoh</string>
+		<string>Krong Kaeb</string>
+		<string>Krong Pailin</string>
+		<string>Mondol Kiri</string>
+		<string>Otdar Mean Chey</string>
+		<string>Phnom Penh</string>
+		<string>Pousaat</string>
+		<string>Preah Vihear</string>
+		<string>Prey Veaeng</string>
+		<string>Rampong Chaam</string>
+		<string>Rotanak Kiri</string>
+		<string>Siem Reab</string>
+		<string>Stueng Traeng</string>
+		<string>Svaay Rieng</string>
+		<string>Taakaev</string>
+		<string>Xrong Preah Sihanouk</string>
+	</array>
+	<key>Cameroon</key>
+	<array>
+		<string>Adamaoua</string>
+		<string>Centre</string>
+		<string>East</string>
+		<string>Far North</string>
+		<string>North</string>
+		<string>South</string>
+		<string>South-West</string>
+		<string>West</string>
+	</array>
+	<key>Canada</key>
+	<array>
+		<string>Alberta</string>
+		<string>British Columbia</string>
+		<string>Manitoba</string>
+		<string>New Brunswick</string>
+		<string>Newfoundland and Labrador</string>
+		<string>Northwest Territories</string>
+		<string>Nova Scotia</string>
+		<string>Nunavut</string>
+		<string>Ontario</string>
+		<string>Prince Edward Island</string>
+		<string>Quebec</string>
+		<string>Saskatchewan</string>
+		<string>Yukon Territory</string>
+	</array>
+	<key>Cape Verde</key>
+	<array>
+		<string>Boa Vista</string>
+		<string>Brava</string>
+		<string>Calheta de Sao Miguel</string>
+		<string>Fogo</string>
+		<string>Maio</string>
+		<string>Mosteiros</string>
+		<string>Paul</string>
+		<string>Porto Novo</string>
+		<string>Praia</string>
+		<string>Ribeira Grande</string>
+		<string>Sal</string>
+		<string>Sao Domingos</string>
+		<string>Sao Filipe</string>
+		<string>Sao Nicolau</string>
+		<string>Sao Vicente</string>
+		<string>Tarrafal</string>
+	</array>
+	<key>Central African Republic</key>
+	<array>
+		<string>Bamingui-Bangoran</string>
+		<string>Bangui</string>
+		<string>Basse-Kotto</string>
+		<string>Haut-Mbomou</string>
+		<string>Haute-Kotto</string>
+		<string>Kemo</string>
+		<string>Lobaye</string>
+		<string>Mambere-Kadei</string>
+		<string>Mbomou</string>
+		<string>Nana-Grebizi</string>
+		<string>Nana-Mambere</string>
+		<string>Ombella-Mpoko</string>
+		<string>Ouaka</string>
+		<string>Ouham</string>
+		<string>Ouham-Pende</string>
+		<string>Sangha-Mbaere</string>
+		<string>Vakaga</string>
+	</array>
+	<key>Chad</key>
+	<array>
+		<string>Batha</string>
+		<string>Biltine</string>
+		<string>Borkou-Ennedi-Tibesti</string>
+		<string>Chari-Baguirmi</string>
+		<string>Guera</string>
+		<string>Kanem</string>
+		<string>Lac</string>
+		<string>Logone-Occidental</string>
+		<string>Logone-Oriental</string>
+		<string>Mayo-Kebbi</string>
+		<string>Moyen-Chari</string>
+		<string>Ouaddai</string>
+		<string>Salamat</string>
+		<string>Tandjile</string>
+	</array>
+	<key>Chile</key>
+	<array>
+		<string>Aisen del General Carlos Ibanez del Campo</string>
+		<string>Antofagasta</string>
+		<string>Araucania</string>
+		<string>Atacama</string>
+		<string>Bio-Bio</string>
+		<string>Coquimbo</string>
+		<string>Libertador General Bernardo O'Higgins</string>
+		<string>Los Lagos</string>
+		<string>Magallanes</string>
+		<string>Maule</string>
+		<string>Region Metropolitana de Santiago</string>
+		<string>Tarapaca</string>
+		<string>Valparaiso</string>
+	</array>
+	<key>China</key>
+	<array>
+		<string>Anhui</string>
+		<string>Beijing</string>
+		<string>Chongqing</string>
+		<string>Fujian</string>
+		<string>Gansu</string>
+		<string>Guangdong</string>
+		<string>Guangxi</string>
+		<string>Guizhou</string>
+		<string>Hainan</string>
+		<string>Hebei</string>
+		<string>Heilongjiang</string>
+		<string>Henan</string>
+		<string>Hong Kong</string>
+		<string>Hubei</string>
+		<string>Hunan</string>
+		<string>Jiangsu</string>
+		<string>Jiangxi</string>
+		<string>Jilin</string>
+		<string>Liaoning</string>
+		<string>Macau</string>
+		<string>Neia Mongol (mn)</string>
+		<string>Qinghai</string>
+		<string>Shaanxi</string>
+		<string>Shandong</string>
+		<string>Shanghai</string>
+		<string>Shanxi</string>
+		<string>Sichuan</string>
+		<string>Taiwan</string>
+		<string>Tianjin</string>
+		<string>Xinjiang</string>
+		<string>Xizang</string>
+		<string>Yunnan</string>
+		<string>Zhejiang</string>
+	</array>
+	<key>Colombia</key>
+	<array>
+		<string>Amazonea</string>
+		<string>Antioquia</string>
+		<string>Arauca</string>
+		<string>á</string>
+		<string>á</string>
+		<string>á</string>
+		<string>ántico</string>
+		<string>Caldea</string>
+		<string>Casanare</string>
+		<string>Cauca</string>
+		<string>Cesar</string>
+		<string>Cundinamarca</string>
+		<string>és</string>
+		<string>és, Providencia y Santa Catalina</string>
+		<string>Guaviare</string>
+		<string>ía</string>
+		<string>ívar</string>
+		<string>La Guajira</string>
+		<string>Magdalena</string>
+		<string>Meta</string>
+		<string>Norte de Santander</string>
+		<string>ño</string>
+		<string>ó</string>
+		<string>órdoba</string>
+		<string>Putumayo</string>
+		<string>Quindio</string>
+		<string>Risaralda</string>
+		<string>Santander</string>
+		<string>Sucre</string>
+		<string>Tolima</string>
+		<string>Valle del Cauca</string>
+		<string>Vichada</string>
+	</array>
+	<key>Comoros</key>
+	<array>
+		<string>Anjouan Ndzouani</string>
+		<string>Grande Comore Ngazidja</string>
+		<string>Moheli Moili</string>
+	</array>
+	<key>Congo</key>
+	<array>
+		<string>Bouenza</string>
+		<string>Brazzaville</string>
+		<string>Cuvette</string>
+		<string>Cuvette-Ouest</string>
+		<string>Kouilou</string>
+		<string>Lekoumou</string>
+		<string>Likouala</string>
+		<string>Niari</string>
+		<string>Plateaux</string>
+		<string>Pool</string>
+		<string>Sangha</string>
+	</array>
+	<key>Congo, The Democratic Republic of the</key>
+	<array>
+		<string>Bandundu</string>
+		<string>Bas-Congo</string>
+		<string>Equateur</string>
+		<string>Haut-Congo</string>
+		<string>Kasai-Occidental</string>
+		<string>Kasai-Oriental</string>
+		<string>Katanga</string>
+		<string>Kinshasa</string>
+		<string>Maniema</string>
+		<string>Nord-Kivu</string>
+		<string>Orientale</string>
+		<string>Sud-Kivu</string>
+	</array>
+	<key>Costa Rica</key>
+	<array>
+		<string>Alajuela</string>
+		<string>Cartago</string>
+		<string>Guanacaste</string>
+		<string>Heredia</string>
+		<string>Limon</string>
+		<string>Puntarenas</string>
+		<string>San Jose</string>
+	</array>
+	<key>Croatia</key>
+	<array>
+		<string>Bjelovarsko-bilogorska zupanija</string>
+		<string>Brodsko-posavska zupanija</string>
+		<string>Dubrovacko-neretvanska zupanija</string>
+		<string>Istarska zupanija</string>
+		<string>Karlovacka zupanija</string>
+		<string>Koprivnickco-krizevacka zupanija</string>
+		<string>Krapinako-zagorska zupanija</string>
+		<string>Licko-senjska zupanija</string>
+		<string>Medimurska zupanija</string>
+		<string>Osjecko-baranjska zupanija</string>
+		<string>Pozesko-slavonska zupanija</string>
+		<string>Primorsko-goranska zupanija</string>
+		<string>Sibenako-kninska zupanija</string>
+		<string>Sisacko-moelavacka Iupanija</string>
+		<string>Splitako-dalmatinska zupanija</string>
+		<string>Varaidinska zupanija</string>
+		<string>VirovitiEko-podravska zupanija</string>
+		<string>VuRovarako-srijemska zupanija</string>
+		<string>Zadaraka</string>
+		<string>Zagrebacka zupanija</string>
+	</array>
+	<key>Cuba</key>
+	<array>
+		<string>Camagey</string>
+		<string>Camagoey</string>
+		<string>Ciego de `vila</string>
+		<string>Ciego de Avila</string>
+		<string>Cienfuegos</string>
+		<string>Ciudad de La Habana</string>
+		<string>Granma</string>
+		<string>Guantanamo</string>
+		<string>Holgun</string>
+		<string>Holquin</string>
+		<string>Isla de la Juventud</string>
+		<string>La Habana</string>
+		<string>Las Tunas</string>
+		<string>Matanzas</string>
+		<string>Municipio Especial Isla de la Juventud</string>
+		<string>Pinar del Rio</string>
+		<string>Pinar del Roo</string>
+		<string>Sancti Spiritus</string>
+		<string>Sancti Spritus</string>
+		<string>Santiago de Cuba</string>
+		<string>Villa Clara</string>
+	</array>
+	<key>Cyprus</key>
+	<array>
+		<string>Ammochostos Magusa</string>
+		<string>Keryneia</string>
+		<string>Larnaka</string>
+		<string>Lefkosia</string>
+		<string>Lemesos</string>
+		<string>Pafos</string>
+	</array>
+	<key>Czech Republic</key>
+	<array>
+		<string>álovéhradecký kraj</string>
+		<string>český kraj</string>
+		<string>čina</string>
+		<string>í město</string>
+		<string>ínský kraj</string>
+		<string>ňský kraj</string>
+		<string>ředočeský kraj</string>
+		<string>Ústecký kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+	</array>
+	<key>Denmark</key>
+	<array>
+		<string>Århus</string>
+		<string>Bornholm</string>
+		<string>Copenhagen</string>
+		<string>Copenhagen City</string>
+		<string>Frederiksberg</string>
+		<string>Frederiksborg</string>
+		<string>Fyn</string>
+		<string>North Jutland</string>
+		<string>Ribe</string>
+		<string>Roskilde</string>
+		<string>South Jutland</string>
+		<string>Vejle</string>
+		<string>Viborg</string>
+		<string>ælland</string>
+		<string>øbing</string>
+		<string>øm</string>
+	</array>
+	<key>Djibouti</key>
+	<array>
+		<string>Ali Sabiah</string>
+		<string>Dikhil</string>
+		<string>Djibouti</string>
+		<string>Obock</string>
+		<string>Tadjoura</string>
+	</array>
+	<key>Dominican Republic</key>
+	<array>
+		<string>Azua</string>
+		<string>á</string>
+		<string>ánchez</string>
+		<string>ánchez Ramírez</string>
+		<string>Bahoruco</string>
+		<string>Barahona</string>
+		<string>Distrito Nacional (Santo Domingo)</string>
+		<string>Duarte</string>
+		<string>El Seybo [El Seibo]</string>
+		<string>Espaillat</string>
+		<string>Hato Mayor</string>
+		<string>Independencia</string>
+		<string>íguez</string>
+		<string>ís</string>
+		<string>La Altagracia</string>
+		<string>La Estrelleta [Elias Pina]</string>
+		<string>La Romana</string>
+		<string>La Vega</string>
+		<string>Monte Cristi</string>
+		<string>Monte Plata</string>
+		<string>ñor Nouel</string>
+		<string>óbal</string>
+		<string>ón</string>
+		<string>Pedernales</string>
+		<string>Peravia</string>
+		<string>Puerto Plata</string>
+		<string>Salcedo</string>
+		<string>Santiago</string>
+		<string>Valverde</string>
+	</array>
+	<key>Ecuador</key>
+	<array>
+		<string>Azuay</string>
+		<string>Bolivar</string>
+		<string>Canar</string>
+		<string>Carchi</string>
+		<string>Chimborazo</string>
+		<string>Cotopaxi</string>
+		<string>El Oro</string>
+		<string>Esmeraldas</string>
+		<string>Galapagos</string>
+		<string>Guayas</string>
+		<string>Imbabura</string>
+		<string>Loja</string>
+		<string>Los Rios</string>
+		<string>Manabi</string>
+		<string>Morona-Santiago</string>
+		<string>Napo</string>
+		<string>Orellana</string>
+		<string>Pastaza</string>
+		<string>Pichincha</string>
+		<string>Sucumbios</string>
+		<string>Tungurahua</string>
+		<string>Zamora-Chinchipe</string>
+	</array>
+	<key>Egypt</key>
+	<array>
+		<string>Ad Daqahllyah</string>
+		<string>Al Bahr al Ahmar</string>
+		<string>Al Buhayrah</string>
+		<string>Al Fayym</string>
+		<string>Al Gharbiyah</string>
+		<string>Al Iskandarlyah</string>
+		<string>Al Isma illyah</string>
+		<string>Al Jizah</string>
+		<string>Al Minuflyah</string>
+		<string>Al Minya</string>
+		<string>Al Qahirah</string>
+		<string>Al Qalyublyah</string>
+		<string>Al Wadi al Jadid</string>
+		<string>As Suways</string>
+		<string>Ash Sharqiyah</string>
+		<string>Aswan</string>
+		<string>Asyut</string>
+		<string>Bani Suwayf</string>
+		<string>Bur Sa'id</string>
+		<string>Dumyat</string>
+		<string>Janub Sina'</string>
+		<string>Kafr ash Shaykh</string>
+		<string>Matruh</string>
+		<string>Qina</string>
+		<string>Shamal Sina'</string>
+		<string>Suhaj</string>
+	</array>
+	<key>El Salvador</key>
+	<array>
+		<string>Ahuachapan</string>
+		<string>Cabanas</string>
+		<string>Chalatenango</string>
+		<string>Cuscatlan</string>
+		<string>Morazan</string>
+		<string>San Miguel</string>
+		<string>San Salvador</string>
+		<string>San Vicente</string>
+		<string>Santa Ana</string>
+		<string>Sonsonate</string>
+		<string>Usulutan</string>
+	</array>
+	<key>Equatorial Guinea</key>
+	<array>
+		<string>Annobon</string>
+		<string>Bioko Norte</string>
+		<string>Bioko Sur</string>
+		<string>Centro Sur</string>
+		<string>Kie-Ntem</string>
+		<string>Litoral</string>
+		<string>Region Continental</string>
+		<string>Region Insular</string>
+		<string>Wele-Nzas</string>
+	</array>
+	<key>Eritrea</key>
+	<array>
+		<string>Anseba</string>
+		<string>Debub</string>
+		<string>Debubawi Keyih Bahri [Debub-Keih-Bahri]</string>
+		<string>Gash-Barka</string>
+		<string>Maakel [Maekel]</string>
+		<string>Semenawi Keyih Bahri [Semien-Keih-Bahri]</string>
+	</array>
+	<key>Estonia</key>
+	<array>
+		<string>Harjumsa</string>
+		<string>Hitumea</string>
+		<string>Ida-Virumsa</string>
+		<string>Jarvamsa</string>
+		<string>Jogevamsa</string>
+		<string>Laane-Virumaa</string>
+		<string>Lasnemsa</string>
+		<string>Parnumsa</string>
+		<string>Polvamea</string>
+		<string>Raplamsa</string>
+		<string>Saaremsa</string>
+		<string>Tartumsa</string>
+		<string>Valgamaa</string>
+		<string>Viljandimsa</string>
+		<string>Vorumaa</string>
+	</array>
+	<key>Ethiopia</key>
+	<array>
+		<string>Addis Ababa</string>
+		<string>Afar</string>
+		<string>Amara</string>
+		<string>Benshangul-Gumaz</string>
+		<string>Dire Dawa</string>
+		<string>Gambela Peoples</string>
+		<string>Harari People</string>
+		<string>Oromia</string>
+		<string>Somali</string>
+		<string>Southern Nations, Nationalities and Peoples</string>
+		<string>Tigrai</string>
+	</array>
+	<key>Fiji</key>
+	<array>
+		<string>Eastern</string>
+		<string>Northern</string>
+		<string>Rotuma</string>
+		<string>Western</string>
+	</array>
+	<key>Finland</key>
+	<array>
+		<string>ä-Savo</string>
+		<string>ä-Uusimaa</string>
+		<string>äijät-Häme</string>
+		<string>äme</string>
+		<string>Åland</string>
+		<string>Central Finland</string>
+		<string>Central Ostrobothnia</string>
+		<string>Kainuu</string>
+		<string>Kymenlaakso</string>
+		<string>Lapland</string>
+		<string>North Karelia</string>
+		<string>Northern Savo</string>
+		<string>Nothern Ostrobothnia</string>
+		<string>Ostrobothnia</string>
+		<string>Satakunta</string>
+		<string>South Karelia</string>
+		<string>South Ostrobothnia</string>
+		<string>South-West Finland</string>
+		<string>Tampere Region</string>
+		<string>Uusimaa</string>
+	</array>
+	<key>France</key>
+	<array>
+		<string>Ain</string>
+		<string>Aisne</string>
+		<string>Allier</string>
+		<string>Alpes-de-Haute-Provence</string>
+		<string>Alpes-Maritimes</string>
+		<string>Ardennes</string>
+		<string>Aube</string>
+		<string>Aude</string>
+		<string>Aveyron</string>
+		<string>Bas-Rhin</string>
+		<string>Calvados</string>
+		<string>Cantal</string>
+		<string>Charente</string>
+		<string>Charente-Maritime</string>
+		<string>Cher</string>
+		<string>Corse-du-Sud</string>
+		<string>Creuse</string>
+		<string>Dordogne</string>
+		<string>Doubs</string>
+		<string>Essonne</string>
+		<string>Eure</string>
+		<string>Eure-et-Loir</string>
+		<string>èche</string>
+		<string>ège</string>
+		<string>ère</string>
+		<string>ère</string>
+		<string>ère</string>
+		<string>èvre</string>
+		<string>èvres</string>
+		<string>èze</string>
+		<string>ée</string>
+		<string>énées</string>
+		<string>énées-Atlantiques</string>
+		<string>énées-Orientales</string>
+		<string>érault</string>
+		<string>Gard</string>
+		<string>Gers</string>
+		<string>Gironde</string>
+		<string>Haut-Rhin</string>
+		<string>Haute-Corse</string>
+		<string>Haute-Garonne</string>
+		<string>Haute-Loire</string>
+		<string>Haute-Savoie</string>
+		<string>Haute-Vienne</string>
+		<string>Hautes-Alpes</string>
+		<string>Hauts-de-Seine</string>
+		<string>Ille-et-Vilaine</string>
+		<string>Indre</string>
+		<string>Indre-et-Loire</string>
+		<string>Jura</string>
+		<string>Landes</string>
+		<string>Loir-et-Cher</string>
+		<string>Loire</string>
+		<string>Loire-Atlantique</string>
+		<string>Loiret</string>
+		<string>Lot</string>
+		<string>Lot-et-Garonne</string>
+		<string>Maine-et-Loire</string>
+		<string>Manche</string>
+		<string>Marne</string>
+		<string>Mayenne</string>
+		<string>Meurthe-et-Moselle</string>
+		<string>Meuse</string>
+		<string>Morbihan</string>
+		<string>Moselle</string>
+		<string>Nord</string>
+		<string>Oise</string>
+		<string>Orne</string>
+		<string>ôme</string>
+		<string>ôme</string>
+		<string>ône</string>
+		<string>ône</string>
+		<string>ône</string>
+		<string>ône-et-Loire</string>
+		<string>ôte-d'Or</string>
+		<string>ôtes-d'Armor</string>
+		<string>Paris</string>
+		<string>Pas-de-Calais</string>
+		<string>Sarthe</string>
+		<string>Savoie</string>
+		<string>Seine-et-Marne</string>
+		<string>Seine-Maritime</string>
+		<string>Seine-Saint-Denis</string>
+		<string>Somme</string>
+		<string>Tarn</string>
+		<string>Tarn-et-Garonne</string>
+		<string>Territoire de Belfort</string>
+		<string>Val d'Oise</string>
+		<string>Val-de-Marne</string>
+		<string>Var</string>
+		<string>Vaucluse</string>
+		<string>Vienne</string>
+		<string>Vosges</string>
+		<string>Yonne</string>
+		<string>Yvelines</string>
+	</array>
+	<key>Gambia</key>
+	<array>
+		<string>Banjul</string>
+		<string>Lower River</string>
+		<string>MacCarthy Island</string>
+		<string>North Bank</string>
+		<string>Upper River</string>
+	</array>
+	<key>Germany</key>
+	<array>
+		<string>Baden-Wuerttemberg</string>
+		<string>Bayern</string>
+		<string>Berlin</string>
+		<string>Brandenburg</string>
+		<string>Bremen</string>
+		<string>Hamburg</string>
+		<string>Hessen</string>
+		<string>Mecklenburg-Vorpommern</string>
+		<string>Niedersachsen</string>
+		<string>Nordrhein-Westfalen</string>
+		<string>Rheinland-Pfalz</string>
+		<string>Saarland</string>
+		<string>Sachsen</string>
+		<string>Sachsen-Anhalt</string>
+		<string>Schleswig-Holstein</string>
+		<string>Thueringen</string>
+	</array>
+	<key>Ghana</key>
+	<array>
+		<string>Ashanti</string>
+		<string>Brong-Ahafo</string>
+		<string>Greater Accra</string>
+		<string>Upper East</string>
+		<string>Upper West</string>
+		<string>Volta</string>
+	</array>
+	<key>Greece</key>
+	<array>
+		<string>Agio Oros</string>
+		<string>Aitolia-Akarnania</string>
+		<string>Argolis</string>
+		<string>Arkadia</string>
+		<string>Arta</string>
+		<string>Attiki</string>
+		<string>Chalkidiki</string>
+		<string>Chania</string>
+		<string>Chios</string>
+		<string>Dodekanisos</string>
+		<string>Drama</string>
+		<string>Evros</string>
+		<string>Evrytania</string>
+		<string>Evvoia</string>
+		<string>Florina</string>
+		<string>Fokis</string>
+		<string>Fthiotis</string>
+		<string>Grevena</string>
+		<string>Ileia</string>
+		<string>Imathia</string>
+		<string>Ioannina</string>
+		<string>Irakleion</string>
+		<string>ïa</string>
+		<string>Karditsa</string>
+		<string>Kastoria</string>
+		<string>Kavalla</string>
+		<string>Kefallinia</string>
+		<string>Kerkyra</string>
+		<string>Kilkis</string>
+		<string>Korinthia</string>
+		<string>Kozani</string>
+		<string>Kyklades</string>
+		<string>Lakonia</string>
+		<string>Larisa</string>
+		<string>Lasithion</string>
+		<string>Lefkas</string>
+		<string>Lesvos</string>
+		<string>Magnisia</string>
+		<string>Messinia</string>
+		<string>Pella</string>
+		<string>Preveza</string>
+		<string>Rethymnon</string>
+		<string>Rodopi</string>
+		<string>Samos</string>
+		<string>Serrai</string>
+		<string>Thesprotia</string>
+		<string>Thessaloniki</string>
+		<string>Trikala</string>
+		<string>Voiotia</string>
+		<string>Xanthi</string>
+		<string>Zakynthos</string>
+	</array>
+	<key>Guatemala</key>
+	<array>
+		<string>Alta Verapez</string>
+		<string>Baja Verapez</string>
+		<string>Chimaltenango</string>
+		<string>Chiquimula</string>
+		<string>El Progreso</string>
+		<string>Escuintla</string>
+		<string>Guatemala</string>
+		<string>Huehuetenango</string>
+		<string>Izabal</string>
+		<string>Jalapa</string>
+		<string>Jutiapa</string>
+		<string>Peten</string>
+		<string>Quetzaltenango</string>
+		<string>Quiche</string>
+		<string>Reta.thuleu</string>
+		<string>Sacatepequez</string>
+		<string>San Marcos</string>
+		<string>Santa Rosa</string>
+		<string>Solol6</string>
+		<string>Suchitepequez</string>
+		<string>Totonicapan</string>
+		<string>Zacapa</string>
+	</array>
+	<key>Guinea</key>
+	<array>
+		<string>Beyla</string>
+		<string>Boffa</string>
+		<string>Boke</string>
+		<string>Coyah</string>
+		<string>Dabola</string>
+		<string>Dalaba</string>
+		<string>Dinguiraye</string>
+		<string>Dubreka</string>
+		<string>Faranah</string>
+		<string>Forecariah</string>
+		<string>Fria</string>
+		<string>Gaoual</string>
+		<string>Guekedou</string>
+		<string>Kankan</string>
+		<string>Kerouane</string>
+		<string>Kindia</string>
+		<string>Kissidougou</string>
+		<string>Koubia</string>
+		<string>Koundara</string>
+		<string>Kouroussa</string>
+		<string>Labe</string>
+		<string>Lelouma</string>
+		<string>Lola</string>
+		<string>Macenta</string>
+		<string>Mali</string>
+		<string>Mamou</string>
+		<string>Mandiana</string>
+		<string>Nzerekore</string>
+		<string>Pita</string>
+		<string>Siguiri</string>
+		<string>Telimele</string>
+		<string>Tougue</string>
+		<string>Yomou</string>
+	</array>
+	<key>Guinea-Bissau</key>
+	<array>
+		<string>Bafata</string>
+		<string>Biombo</string>
+		<string>Bissau</string>
+		<string>Bolama</string>
+		<string>Cacheu</string>
+		<string>Gabu</string>
+		<string>Oio</string>
+		<string>Quloara</string>
+		<string>Tombali S</string>
+	</array>
+	<key>Guyana</key>
+	<array>
+		<string>Barima-Waini</string>
+		<string>Cuyuni-Mazaruni</string>
+		<string>Demerara-Mahaica</string>
+		<string>East Berbice-Corentyne</string>
+		<string>Essequibo Islands-West Demerara</string>
+		<string>Mahaica-Berbice</string>
+		<string>Pomeroon-Supenaam</string>
+		<string>Potaro-Siparuni</string>
+		<string>Upper Demerara-Berbice</string>
+		<string>Upper Takutu-Upper Essequibo</string>
+	</array>
+	<key>Haiti</key>
+	<array>
+		<string>Artibonite</string>
+		<string>Centre</string>
+		<string>Grande-Anse</string>
+		<string>Nippes</string>
+		<string>Nord</string>
+		<string>Nord-Est</string>
+		<string>Nord-Ouest</string>
+		<string>Ouest</string>
+		<string>Sud</string>
+		<string>Sud-Est</string>
+	</array>
+	<key>Honduras</key>
+	<array>
+		<string>Atlantida</string>
+		<string>Choluteca</string>
+		<string>Colon</string>
+		<string>Comayagua</string>
+		<string>Copan</string>
+		<string>Cortes</string>
+		<string>El Paraiso</string>
+		<string>Francisco Morazan</string>
+		<string>Gracias a Dios</string>
+		<string>Intibuca</string>
+		<string>Islas de la Bahia</string>
+		<string>Lempira</string>
+		<string>Ocotepeque</string>
+		<string>Olancho</string>
+		<string>Santa Barbara</string>
+		<string>Valle</string>
+		<string>Yoro</string>
+	</array>
+	<key>Hong Kong</key>
+	<array>
+		<string>Central and Western</string>
+		<string>Eastern</string>
+		<string>Islands</string>
+		<string>Kowloon City</string>
+		<string>Kwai Tsing</string>
+		<string>Kwun Tong</string>
+		<string>North</string>
+		<string>Sai Kung</string>
+		<string>Sha Tin</string>
+		<string>Sham Shui Po</string>
+		<string>Southern</string>
+		<string>Tai Po</string>
+		<string>Tsuen Wan</string>
+		<string>Tuen Mun</string>
+		<string>Wan Chai</string>
+		<string>Wong Tai Sin</string>
+		<string>Yau Tsim Mong</string>
+		<string>Yuen Long</string>
+	</array>
+	<key>Hungary</key>
+	<array>
+		<string>ács-Kiskun</string>
+		<string>ád</string>
+		<string>ád</string>
+		<string>ánya</string>
+		<string>ár</string>
+		<string>ár-Bereg</string>
+		<string>árd</string>
+		<string>árom-Esztergom</string>
+		<string>ász-Nagykun-Szolnok</string>
+		<string>áza</string>
+		<string>Baranya</string>
+		<string>Budapest</string>
+		<string>Debrecen</string>
+		<string>Eger</string>
+		<string>écs</string>
+		<string>ékesfehérvár</string>
+		<string>ékés</string>
+		<string>ékéscsaba</string>
+		<string>ém</string>
+		<string>ér</string>
+		<string>ét</string>
+		<string>Hajdu-Bihar</string>
+		<string>Heves</string>
+		<string>Miskolc</string>
+		<string>Nagykanizsa</string>
+		<string>ódmezővásárhely</string>
+		<string>ótarján</string>
+		<string>őr</string>
+		<string>őr-Moson-Sopron</string>
+		<string>Pest</string>
+		<string>Somogy</string>
+		<string>Sopron</string>
+		<string>Szeged</string>
+		<string>Szolnok</string>
+		<string>Szombathely</string>
+		<string>Tolna</string>
+		<string>új-Zemplén</string>
+		<string>újváros</string>
+		<string>Vas</string>
+		<string>Zala</string>
+		<string>Zalaegerszeg</string>
+	</array>
+	<key>Iceland</key>
+	<array>
+		<string>Austurland</string>
+		<string>Hofuoborgarsvaeoi utan Reykjavikur</string>
+		<string>Norourland eystra</string>
+		<string>Norourland vestra</string>
+		<string>Reykjavik</string>
+		<string>Suourland</string>
+		<string>Suournes</string>
+		<string>Vestfirolr</string>
+		<string>Vesturland</string>
+	</array>
+	<key>India</key>
+	<array>
+		<string>Andaman and Nicobar Islands</string>
+		<string>Andhra Pradesh</string>
+		<string>Arunachal Pradesh</string>
+		<string>Assam</string>
+		<string>Bihar</string>
+		<string>Chhattisgarh</string>
+		<string>Dadra and Nagar Haveli</string>
+		<string>Daman and Diu</string>
+		<string>Delhi</string>
+		<string>Goa</string>
+		<string>Gujarat</string>
+		<string>Haryana</string>
+		<string>Himachal Pradesh</string>
+		<string>Jammu and Kashmir</string>
+		<string>Jharkhand</string>
+		<string>Karnataka</string>
+		<string>Kerala</string>
+		<string>Lakshadweep</string>
+		<string>Madhya Pradesh</string>
+		<string>Maharashtra</string>
+		<string>Manipur</string>
+		<string>Meghalaya</string>
+		<string>Mizoram</string>
+		<string>Nagaland</string>
+		<string>Orissa</string>
+		<string>Pondicherry</string>
+		<string>Punjab</string>
+		<string>Rajasthan</string>
+		<string>Sikkim</string>
+		<string>Tamil Nadu</string>
+		<string>Tripura</string>
+		<string>Uttar Pradesh</string>
+		<string>Uttaranchal</string>
+		<string>West Bengal</string>
+	</array>
+	<key>Indonesia</key>
+	<array>
+		<string>Aceh</string>
+		<string>Bali</string>
+		<string>Bangka Belitung</string>
+		<string>Banten</string>
+		<string>Bengkulu</string>
+		<string>Gorontalo</string>
+		<string>Irian Jaya</string>
+		<string>Jakarta Raya</string>
+		<string>Jambi</string>
+		<string>Jawa Barat</string>
+		<string>Jawa Tengah</string>
+		<string>Jawa Timur</string>
+		<string>Kalimantan Barat</string>
+		<string>Kalimantan Selatan</string>
+		<string>Kalimantan Timur</string>
+		<string>Kepulauan Riau</string>
+		<string>Lampung</string>
+		<string>Maluku</string>
+		<string>Maluku Utara</string>
+		<string>Nusa Tenggara Barat</string>
+		<string>Nusa Tenggara Timur</string>
+		<string>Papua</string>
+		<string>Riau</string>
+		<string>Sulawesi Selatan</string>
+		<string>Sulawesi Tengah</string>
+		<string>Sulawesi Tenggara</string>
+		<string>Sulawesi Utara</string>
+		<string>Sumatera Utara</string>
+		<string>Sumatra Barat</string>
+		<string>Sumatra Selatan</string>
+		<string>Yogyakarta</string>
+	</array>
+	<key>Iran, Islamic Republic of</key>
+	<array>
+		<string>Ardabil</string>
+		<string>Azarbayjan-e Gharbi</string>
+		<string>Azarbayjan-e Sharqi</string>
+		<string>Bushehr</string>
+		<string>Chahar Mahall va Bakhtiari</string>
+		<string>Esfahan</string>
+		<string>Fars</string>
+		<string>Gilan</string>
+		<string>Golestan</string>
+		<string>Hamadan</string>
+		<string>Hormozgan</string>
+		<string>Iiam</string>
+		<string>Kerman</string>
+		<string>Kermanshah</string>
+		<string>Khorasan</string>
+		<string>Khuzestan</string>
+		<string>Kohjiluyeh va Buyer Ahmad</string>
+		<string>Kordestan</string>
+		<string>Lorestan</string>
+		<string>Markazi</string>
+		<string>Mazandaran</string>
+		<string>Qazvin</string>
+		<string>Qom</string>
+		<string>Semnan</string>
+		<string>Sistan va Baluchestan</string>
+		<string>Tehran</string>
+		<string>Yazd</string>
+		<string>Zanjan</string>
+	</array>
+	<key>Iraq</key>
+	<array>
+		<string>Al Anbar</string>
+		<string>Al Ba,rah</string>
+		<string>Al Muthanna</string>
+		<string>Al Qadisiyah</string>
+		<string>An Najef</string>
+		<string>Arbil</string>
+		<string>As Sulaymaniyah</string>
+		<string>At Ta'mim</string>
+		<string>Babil</string>
+		<string>Baghdad</string>
+		<string>Dahuk</string>
+		<string>Dhi Qar</string>
+		<string>Diyala</string>
+		<string>Karbala'</string>
+		<string>Maysan</string>
+		<string>Ninawa</string>
+		<string>Salah ad Din</string>
+		<string>Wasit</string>
+	</array>
+	<key>Ireland</key>
+	<array>
+		<string>Carlow</string>
+		<string>Cavan</string>
+		<string>Clare</string>
+		<string>Cork</string>
+		<string>Donegal</string>
+		<string>Dublin</string>
+		<string>Galway</string>
+		<string>Kerry</string>
+		<string>Kildare</string>
+		<string>Kilkenny</string>
+		<string>Laois</string>
+		<string>Leitrim</string>
+		<string>Limerick</string>
+		<string>Longford</string>
+		<string>Louth</string>
+		<string>Mayo</string>
+		<string>Meath</string>
+		<string>Monaghan</string>
+		<string>Offaly</string>
+		<string>Roscommon</string>
+		<string>Sligo</string>
+		<string>Tipperary</string>
+		<string>Waterford</string>
+		<string>Westmeath</string>
+		<string>Wexford</string>
+		<string>Wicklow</string>
+	</array>
+	<key>Israel</key>
+	<array>
+		<string>HaDarom</string>
+		<string>Haifa</string>
+		<string>HaMerkaz</string>
+		<string>HaZafon</string>
+		<string>Jerusalem</string>
+		<string>Tel-Aviv</string>
+	</array>
+	<key>Italy</key>
+	<array>
+		<string>Agrigento</string>
+		<string>Alessandria</string>
+		<string>Ancona</string>
+		<string>Aosta</string>
+		<string>Arezzo</string>
+		<string>Ascoli Piceno</string>
+		<string>Asti</string>
+		<string>Avellino</string>
+		<string>Bari</string>
+		<string>Barletta-Andria-Trani</string>
+		<string>Belluno</string>
+		<string>Benevento</string>
+		<string>Bergamo</string>
+		<string>Biella</string>
+		<string>Bologna</string>
+		<string>Bolzano</string>
+		<string>Brescia</string>
+		<string>Brindisi</string>
+		<string>Cagliari</string>
+		<string>Caltanissetta</string>
+		<string>Campobasso</string>
+		<string>Carbonia-Iglesias</string>
+		<string>Caserta</string>
+		<string>Catania</string>
+		<string>Catanzaro</string>
+		<string>Chieti</string>
+		<string>Como</string>
+		<string>Cosenza</string>
+		<string>Cremona</string>
+		<string>Crotone</string>
+		<string>Cuneo</string>
+		<string>Enna</string>
+		<string>Fermo</string>
+		<string>Ferrara</string>
+		<string>Firenze</string>
+		<string>Foggia</string>
+		<string>Frosinone</string>
+		<string>Genova</string>
+		<string>Gorizia</string>
+		<string>Grosseto</string>
+		<string>Imperia</string>
+		<string>Isernia</string>
+		<string>ì-Cesena</string>
+		<string>L'Aquila</string>
+		<string>La Spezia</string>
+		<string>Latina</string>
+		<string>Lecce</string>
+		<string>Lecco</string>
+		<string>Livorno</string>
+		<string>Lodi</string>
+		<string>Lucca</string>
+		<string>Macerata</string>
+		<string>Mantova</string>
+		<string>Massa-Carrara</string>
+		<string>Matera</string>
+		<string>Medio Campidano</string>
+		<string>Messina</string>
+		<string>Milano</string>
+		<string>Modena</string>
+		<string>Monza e Brianza</string>
+		<string>Napoli</string>
+		<string>Novara</string>
+		<string>Nuoro</string>
+		<string>Ogliastra</string>
+		<string>Olbia-Tempio</string>
+		<string>Oristano</string>
+		<string>Padova</string>
+		<string>Palermo</string>
+		<string>Parma</string>
+		<string>Pavia</string>
+		<string>Perugia</string>
+		<string>Pesaro e Urbino</string>
+		<string>Pescara</string>
+		<string>Piacenza</string>
+		<string>Pisa</string>
+		<string>Pistoia</string>
+		<string>Pordenone</string>
+		<string>Potenza</string>
+		<string>Prato</string>
+		<string>Ragusa</string>
+		<string>Ravenna</string>
+		<string>Reggio Calabria</string>
+		<string>Reggio Emilia</string>
+		<string>Rieti</string>
+		<string>Rimini</string>
+		<string>Roma</string>
+		<string>Rovigo</string>
+		<string>Salerno</string>
+		<string>Sassari</string>
+		<string>Savona</string>
+		<string>Siena</string>
+		<string>Siracusa</string>
+		<string>Sondrio</string>
+		<string>Taranto</string>
+		<string>Teramo</string>
+		<string>Terni</string>
+		<string>Torino</string>
+		<string>Trapani</string>
+		<string>Trento</string>
+		<string>Treviso</string>
+		<string>Trieste</string>
+		<string>Udine</string>
+		<string>Varese</string>
+		<string>Venezia</string>
+		<string>Verbano-Cusio-Ossola</string>
+		<string>Vercelli</string>
+		<string>Verona</string>
+		<string>Vibo Valentia</string>
+		<string>Vicenza</string>
+		<string>Viterbo</string>
+	</array>
+	<key>Jamaica</key>
+	<array>
+		<string>Clarendon</string>
+		<string>Hanover</string>
+		<string>Kingston</string>
+		<string>Manchester</string>
+		<string>Portland</string>
+		<string>Saint Andrew</string>
+		<string>Saint Ann</string>
+		<string>Saint Catherine</string>
+		<string>Saint Elizabeth</string>
+		<string>Saint James</string>
+		<string>Saint Mary</string>
+		<string>Saint Thomas</string>
+		<string>Trelawny</string>
+		<string>Westmoreland</string>
+	</array>
+	<key>Japan</key>
+	<array>
+		<string>Aichi</string>
+		<string>Akita</string>
+		<string>Aomori</string>
+		<string>Chiba</string>
+		<string>Ehime</string>
+		<string>Fukui</string>
+		<string>Fukuoka</string>
+		<string>Fukusima</string>
+		<string>Gifu</string>
+		<string>Gunma</string>
+		<string>Hiroshima</string>
+		<string>Hokkaido</string>
+		<string>Hyogo</string>
+		<string>Ibaraki</string>
+		<string>Ishikawa</string>
+		<string>Iwate</string>
+		<string>Kagawa</string>
+		<string>Kagoshima</string>
+		<string>Kanagawa</string>
+		<string>Kochi</string>
+		<string>Kumamoto</string>
+		<string>Kyoto</string>
+		<string>Mie</string>
+		<string>Miyagi</string>
+		<string>Miyazaki</string>
+		<string>Nagano</string>
+		<string>Nagasaki</string>
+		<string>Nara</string>
+		<string>Niigata</string>
+		<string>Oita</string>
+		<string>Okayama</string>
+		<string>Okinawa</string>
+		<string>Osaka</string>
+		<string>Saga</string>
+		<string>Saitama</string>
+		<string>Shiga</string>
+		<string>Shimane</string>
+		<string>Shizuoka</string>
+		<string>Tochigi</string>
+		<string>Tokushima</string>
+		<string>Tokyo</string>
+		<string>Tottori</string>
+		<string>Toyama</string>
+		<string>Wakayama</string>
+		<string>Yamagata</string>
+		<string>Yamaguchi</string>
+		<string>Yamanashi</string>
+	</array>
+	<key>Jordan</key>
+	<array>
+		<string>Ajln</string>
+		<string>Al 'Aqaba</string>
+		<string>Al Balqa'</string>
+		<string>Al Karak</string>
+		<string>Al Mafraq</string>
+		<string>Amman</string>
+		<string>At Tafilah</string>
+		<string>Az Zarga</string>
+		<string>Irbid</string>
+		<string>Jarash</string>
+		<string>Ma'an</string>
+		<string>Madaba</string>
+	</array>
+	<key>Kazakhstan</key>
+	<array>
+		<string>Almaty</string>
+		<string>Almaty oblysy</string>
+		<string>Aqmola oblysy</string>
+		<string>Aqtobe oblysy</string>
+		<string>Astana</string>
+		<string>Atyrau oblyfiy</string>
+		<string>Batys Quzaqstan oblysy</string>
+		<string>Mangghystau oblysy</string>
+		<string>Ongtustik Quzaqstan oblysy</string>
+		<string>Pavlodar oblysy</string>
+		<string>Qaraghandy oblysy</string>
+		<string>Qostanay oblysy</string>
+		<string>Qyzylorda oblysy</string>
+		<string>Shyghys Quzaqstan oblysy</string>
+		<string>Soltustik Quzaqstan oblysy</string>
+		<string>Zhambyl oblysy Zhambylskaya oblast'</string>
+	</array>
+	<key>Kenya</key>
+	<array>
+		<string>Coast</string>
+		<string>Nairobi Municipality</string>
+		<string>North-Eastern Kaskazini Mashariki</string>
+		<string>Rift Valley</string>
+		<string>Western Magharibi</string>
+	</array>
+	<key>Kiribati</key>
+	<array>
+		<string>Gilbert Islands</string>
+		<string>Line Islands</string>
+		<string>Phoenix Islands</string>
+	</array>
+	<key>Korea, Democratic People's Republic of</key>
+	<array>
+		<string>Chagang-do</string>
+		<string>Hamgyongbuk-do</string>
+		<string>Hamgyongnam-do</string>
+		<string>Hwanghaebuk-do</string>
+		<string>Hwanghaenam-do</string>
+		<string>Kaesong-si</string>
+		<string>Kangwon-do</string>
+		<string>Najin Sonbong-si</string>
+		<string>Nampo-si</string>
+		<string>Pyonganbuk-do</string>
+		<string>Pyongannam-do</string>
+		<string>Pyongyang-ai</string>
+		<string>Yanggang-do</string>
+	</array>
+	<key>Korea, Republic of</key>
+	<array>
+		<string>Busan Gwang'yeogsi</string>
+		<string>Chungcheongbugdo</string>
+		<string>Chungcheongnamdo</string>
+		<string>Daegu Gwang'yeogsi</string>
+		<string>Daejeon Gwang'yeogsi</string>
+		<string>Gang'weondo</string>
+		<string>Gwangju Gwang'yeogsi</string>
+		<string>Gyeonggido</string>
+		<string>Gyeongsangbugdo</string>
+		<string>Gyeongsangnamdo</string>
+		<string>Incheon Gwang'yeogsi</string>
+		<string>Jejudo</string>
+		<string>Jeonrabugdo</string>
+		<string>Jeonranamdo</string>
+		<string>Seoul Teugbyeolsi</string>
+		<string>Ulsan Gwang'yeogsi</string>
+	</array>
+	<key>Kuwait</key>
+	<array>
+		<string>Al Ahmadi</string>
+		<string>Al Farwanlyah</string>
+		<string>Al Jahrah</string>
+		<string>Al Kuwayt</string>
+		<string>Hawalli</string>
+	</array>
+	<key>Kyrgyzstan</key>
+	<array>
+		<string>Batken</string>
+		<string>Bishkek</string>
+		<string>Chu</string>
+		<string>Jalal-Abad</string>
+		<string>Naryn</string>
+		<string>Osh</string>
+		<string>Talas</string>
+		<string>Ysyk-Kol</string>
+	</array>
+	<key>Lao People's Democratic Republic</key>
+	<array>
+		<string>Attapu</string>
+		<string>Bokeo</string>
+		<string>Bolikhamxai</string>
+		<string>Champasak</string>
+		<string>Houaphan</string>
+		<string>Khammouan</string>
+		<string>Louang Namtha</string>
+		<string>Louangphabang</string>
+		<string>Oudomxai</string>
+		<string>Phongsali</string>
+		<string>Salavan</string>
+		<string>Savannakhet</string>
+		<string>Vientiane</string>
+		<string>Xaignabouli</string>
+		<string>Xekong</string>
+		<string>Xiangkhoang</string>
+		<string>Xiasomboun</string>
+	</array>
+	<key>Latvia</key>
+	<array>
+		<string>Aizkraukles Apripkis</string>
+		<string>Alkanes Apripkis</string>
+		<string>Balvu Apripkis</string>
+		<string>Bauskas Apripkis</string>
+		<string>Cesu Aprikis</string>
+		<string>Daugavpile Apripkis</string>
+		<string>Daugavpils</string>
+		<string>Dobeles Apripkis</string>
+		<string>Gulbenes Aprlpkis</string>
+		<string>Jekabpils Apripkis</string>
+		<string>Jelgava</string>
+		<string>Jelgavas Apripkis</string>
+		<string>Jurmala</string>
+		<string>Kraslavas Apripkis</string>
+		<string>Kuldlgas Apripkis</string>
+		<string>Liepaja</string>
+		<string>Liepajas Apripkis</string>
+		<string>Limbazu Apripkis</string>
+		<string>Ludzas Apripkis</string>
+		<string>Madonas Apripkis</string>
+		<string>Ogres Apripkis</string>
+		<string>Preilu Apripkis</string>
+		<string>Rezaknes Apripkis</string>
+		<string>Rezekne</string>
+		<string>Riga</string>
+		<string>Rigas Apripkis</string>
+		<string>Saldus Apripkis</string>
+		<string>Talsu Apripkis</string>
+		<string>Tukuma Apriplcis</string>
+		<string>Valkas Apripkis</string>
+		<string>Valmieras Apripkis</string>
+		<string>Ventspils</string>
+		<string>Ventspils Apripkis</string>
+	</array>
+	<key>Lebanon</key>
+	<array>
+		<string>Beirout</string>
+		<string>El Begsa</string>
+		<string>Jabal Loubnane</string>
+		<string>Loubnane ech Chemali</string>
+		<string>Loubnane ej Jnoubi</string>
+		<string>Nabatiye</string>
+	</array>
+	<key>Lesotho</key>
+	<array>
+		<string>Berea</string>
+		<string>Butha-Buthe</string>
+		<string>Leribe</string>
+		<string>Mafeteng</string>
+		<string>Maseru</string>
+		<string>Mohale's Hoek</string>
+		<string>Mokhotlong</string>
+		<string>Qacha's Nek</string>
+		<string>Quthing</string>
+		<string>Thaba-Tseka</string>
+	</array>
+	<key>Liberia</key>
+	<array>
+		<string>Bomi</string>
+		<string>Bong</string>
+		<string>Grand Basaa</string>
+		<string>Grand Cape Mount</string>
+		<string>Grand Gedeh</string>
+		<string>Grand Kru</string>
+		<string>Lofa</string>
+		<string>Margibi</string>
+		<string>Maryland</string>
+		<string>Montserrado</string>
+		<string>Nimba</string>
+		<string>Rivercess</string>
+		<string>Sinoe</string>
+	</array>
+	<key>Libyan Arab Jamahiriya</key>
+	<array>
+		<string>Al Jabal al Akhdar</string>
+		<string>Al Jufrah</string>
+		<string>Al Kufrah</string>
+		<string>Al Marj</string>
+		<string>Al Marqab</string>
+		<string>Al Qubbah</string>
+		<string>ā</string>
+		<string>ābiyā</string>
+		<string>ādī al hayāt</string>
+		<string>ādū</string>
+		<string>āhah</string>
+		<string>ājūrā' wa an Nawāhī al Arbāh</string>
+		<string>ālūt</string>
+		<string>ām al Akhdar</string>
+		<string>āmis</string>
+		<string>ān</string>
+		<string>ārah</string>
+		<string>āt</string>
+		<string>āţi'</string>
+		<string>āwiyah</string>
+		<string>āzī</string>
+		<string>Darnah</string>
+		<string>ī Walīd</string>
+		<string>Mizdah</string>
+		<string>Murzuq</string>
+		<string>Surt</string>
+		<string>Şabrātah Şurmān</string>
+		<string>şrātah</string>
+		<string>ţ al Khams</string>
+		<string>Ţarābulus</string>
+		<string>ţnān</string>
+		<string>ţrūn</string>
+		<string>ūb</string>
+		<string>ūnah-Masallātah</string>
+	</array>
+	<key>Lithuania</key>
+	<array>
+		<string>Alytaus Apskritis</string>
+		<string>Kauno Apskritis</string>
+		<string>Klaipedos Apskritis</string>
+		<string>Marijampoles Apskritis</string>
+		<string>Panevezio Apskritis</string>
+		<string>Sisuliu Apskritis</string>
+		<string>Taurages Apskritis</string>
+		<string>Telsiu Apskritis</string>
+		<string>Utenos Apskritis</string>
+		<string>Vilniaus Apskritis</string>
+	</array>
+	<key>Luxembourg</key>
+	<array>
+		<string>Diekirch</string>
+		<string>GreveNmacher</string>
+	</array>
+	<key>Madagascar</key>
+	<array>
+		<string>Antananarivo</string>
+		<string>Antsiranana</string>
+		<string>Fianarantsoa</string>
+		<string>Mahajanga</string>
+		<string>Toamasina</string>
+		<string>Toliara</string>
+	</array>
+	<key>Malawi</key>
+	<array>
+		<string>Balaka</string>
+		<string>Blantyre</string>
+		<string>Chikwawa</string>
+		<string>Chiradzulu</string>
+		<string>Chitipa</string>
+		<string>Dedza</string>
+		<string>Dowa</string>
+		<string>Karonga</string>
+		<string>Kasungu</string>
+		<string>Likoma Island</string>
+		<string>Lilongwe</string>
+		<string>Machinga</string>
+		<string>Mangochi</string>
+		<string>Mchinji</string>
+		<string>Mulanje</string>
+		<string>Mwanza</string>
+		<string>Mzimba</string>
+		<string>Nkhata Bay</string>
+		<string>Nkhotakota</string>
+		<string>Nsanje</string>
+		<string>Ntcheu</string>
+		<string>Ntchisi</string>
+		<string>Phalomba</string>
+		<string>Rumphi</string>
+		<string>Salima</string>
+		<string>Thyolo</string>
+		<string>Zomba</string>
+	</array>
+	<key>Malaysia</key>
+	<array>
+		<string>Johor</string>
+		<string>Kedah</string>
+		<string>Kelantan</string>
+		<string>Melaka</string>
+		<string>Negeri Sembilan</string>
+		<string>Pahang</string>
+		<string>Perak</string>
+		<string>Perlis</string>
+		<string>Pulau Pinang</string>
+		<string>Sabah</string>
+		<string>Sarawak</string>
+		<string>Selangor</string>
+		<string>Terengganu</string>
+		<string>Wilayah Persekutuan Kuala Lumpur</string>
+		<string>Wilayah Persekutuan Labuan</string>
+		<string>Wilayah Persekutuan Putrajaya</string>
+	</array>
+	<key>Maldives</key>
+	<array>
+		<string>Alif</string>
+		<string>Baa</string>
+		<string>Dhaalu</string>
+		<string>Faafu</string>
+		<string>Gaaf Alif</string>
+		<string>Gaefu Dhaalu</string>
+		<string>Gnaviyani</string>
+		<string>Haa Alif</string>
+		<string>Haa Dhaalu</string>
+		<string>Kaafu</string>
+		<string>Laamu</string>
+		<string>Lhaviyani</string>
+		<string>Male</string>
+		<string>Meemu</string>
+		<string>Noonu</string>
+		<string>Raa</string>
+		<string>Seenu</string>
+		<string>Shaviyani</string>
+		<string>Thaa</string>
+		<string>Vaavu</string>
+	</array>
+	<key>Mali</key>
+	<array>
+		<string>Bamako</string>
+		<string>Gao</string>
+		<string>Kayes</string>
+		<string>Kidal</string>
+		<string>Mopti</string>
+		<string>S69ou</string>
+		<string>Sikasso</string>
+		<string>Tombouctou</string>
+		<string>Xoulikoro</string>
+	</array>
+	<key>Marshall Islands</key>
+	<array>
+		<string>Ailinglapalap</string>
+		<string>Ailuk</string>
+		<string>Arno</string>
+		<string>Aur</string>
+		<string>Ebon</string>
+		<string>Eniwetok</string>
+		<string>Jaluit</string>
+		<string>Kili</string>
+		<string>Kwajalein</string>
+		<string>Lae</string>
+		<string>Lib</string>
+		<string>Likiep</string>
+		<string>Majuro</string>
+		<string>Maloelap</string>
+		<string>Mejit</string>
+		<string>Mili</string>
+		<string>Namorik</string>
+		<string>Namu</string>
+		<string>Rongelap</string>
+		<string>Ujae</string>
+		<string>Ujelang</string>
+		<string>Utirik</string>
+		<string>Wotho</string>
+		<string>Wotje</string>
+	</array>
+	<key>Mauritania</key>
+	<array>
+		<string>Assaba</string>
+		<string>Brakna</string>
+		<string>Dakhlet Nouadhibou</string>
+		<string>Gorgol</string>
+		<string>Guidimaka</string>
+		<string>Hodh ech Chargui</string>
+		<string>Hodh el Charbi</string>
+		<string>Inchiri</string>
+		<string>Nouakchott</string>
+		<string>Tagant</string>
+		<string>Tiris Zemmour</string>
+		<string>Trarza</string>
+	</array>
+	<key>Mauritius</key>
+	<array>
+		<string>Agalega Islands</string>
+		<string>Beau Bassin-Rose Hill</string>
+		<string>Black River</string>
+		<string>Cargados Carajos Shoals</string>
+		<string>Curepipe</string>
+		<string>Flacq</string>
+		<string>Grand Port</string>
+		<string>Moka</string>
+		<string>Pamplemousses</string>
+		<string>Plaines Wilhems</string>
+		<string>Port Louis</string>
+		<string>Quatre Bornes</string>
+		<string>Riviere du Rempart</string>
+		<string>Rodrigues Island</string>
+		<string>Savanne</string>
+		<string>Vacosa-Phoenix</string>
+	</array>
+	<key>Mexico</key>
+	<array>
+		<string>Aguascalientes</string>
+		<string>Baja California</string>
+		<string>Baja California Sur</string>
+		<string>Campeche</string>
+		<string>Chiapas</string>
+		<string>Chihuahua</string>
+		<string>Coahuila</string>
+		<string>Colima</string>
+		<string>Distrito Federal</string>
+		<string>Durango</string>
+		<string>Guanajuato</string>
+		<string>Guerrero</string>
+		<string>Hidalgo</string>
+		<string>Jalisco</string>
+		<string>Mexico</string>
+		<string>Michoacin</string>
+		<string>Morelos</string>
+		<string>Nayarit</string>
+		<string>Nuevo Leon</string>
+		<string>Oaxaca</string>
+		<string>Puebla</string>
+		<string>Queretaro</string>
+		<string>Quintana Roo</string>
+		<string>San Luis Potosi</string>
+		<string>Sinaloa</string>
+		<string>Sonora</string>
+		<string>Tabasco</string>
+		<string>Tamaulipas</string>
+		<string>Tlaxcala</string>
+		<string>Veracruz</string>
+		<string>Yucatan</string>
+		<string>Zacatecas</string>
+	</array>
+	<key>Micronesia, Federated States of</key>
+	<array>
+		<string>Chuuk</string>
+		<string>Kosrae</string>
+		<string>Pohnpei</string>
+		<string>Yap</string>
+	</array>
+	<key>Moldova</key>
+	<array>
+		<string>Balti</string>
+		<string>Cahul</string>
+		<string>Chisinau</string>
+		<string>Edinet</string>
+		<string>Gagauzia, Unitate Teritoriala Autonoma</string>
+		<string>Lapusna</string>
+		<string>Orhei</string>
+		<string>Soroca</string>
+		<string>Stinga Nistrului, unitatea teritoriala din</string>
+		<string>Taraclia</string>
+		<string>Tighina [Bender]</string>
+		<string>Ungheni</string>
+	</array>
+	<key>Mongolia</key>
+	<array>
+		<string>Arhangay</string>
+		<string>Bayan-Olgiy</string>
+		<string>Bayanhongor</string>
+		<string>Bulgan</string>
+		<string>Darhan uul</string>
+		<string>Dornod</string>
+		<string>Dornogov,</string>
+		<string>DundgovL</string>
+		<string>Dzavhan</string>
+		<string>Govi-Altay</string>
+		<string>Govi-Smber</string>
+		<string>Hentiy</string>
+		<string>Hovd</string>
+		<string>Hovsgol</string>
+		<string>Omnogovi</string>
+		<string>Orhon</string>
+		<string>Ovorhangay</string>
+		<string>Selenge</string>
+		<string>Shbaatar</string>
+		<string>Tov</string>
+		<string>Ulaanbaatar</string>
+		<string>Uvs</string>
+	</array>
+	<key>Morocco</key>
+	<array>
+		<string>Agadir</string>
+		<string>Al Haouz</string>
+		<string>Assa-Zag</string>
+		<string>Azilal</string>
+		<string>âyoune (EH)</string>
+		<string>Ben Sllmane</string>
+		<string>Beni Mellal</string>
+		<string>Berkane</string>
+		<string>Boujdour</string>
+		<string>Boulemane</string>
+		<string>Chefchaouene</string>
+		<string>Chichaoua</string>
+		<string>El Hajeb</string>
+		<string>El Jadida</string>
+		<string>Errachidia</string>
+		<string>Es Smara</string>
+		<string>Essaouira</string>
+		<string>ès</string>
+		<string>ès</string>
+		<string>é</string>
+		<string>énitra</string>
+		<string>étouan</string>
+		<string>Figuig</string>
+		<string>Guelmim</string>
+		<string>Ifrane</string>
+		<string>ïda]</string>
+		<string>ïma</string>
+		<string>ït Baha</string>
+		<string>ït Melloul</string>
+		<string>Jerada</string>
+		<string>Kelaat Sraghna</string>
+		<string>Khemisaet</string>
+		<string>Khenifra</string>
+		<string>Khouribga</string>
+		<string>Larache</string>
+		<string>Marrakech</string>
+		<string>Nador</string>
+		<string>Ouarzazate</string>
+		<string>Oued ed Dahab (EH)</string>
+		<string>Oujda</string>
+		<string>Safi</string>
+		<string>Sefrou</string>
+		<string>Settat</string>
+		<string>Sidl Kacem</string>
+		<string>Tan-Tan</string>
+		<string>Tanger</string>
+		<string>Taounate</string>
+		<string>Taroudannt</string>
+		<string>Tata</string>
+		<string>Taza</string>
+		<string>Tiznit</string>
+	</array>
+	<key>Mozambique</key>
+	<array>
+		<string>Cabo Delgado</string>
+		<string>Gaza</string>
+		<string>Inhambane</string>
+		<string>Manica</string>
+		<string>Maputo</string>
+		<string>Niaaea</string>
+		<string>Numpula</string>
+		<string>Sofala</string>
+		<string>Tete</string>
+		<string>Zambezia</string>
+	</array>
+	<key>Myanmar</key>
+	<array>
+		<string>Ayeyarwady</string>
+		<string>Bago</string>
+		<string>Chin</string>
+		<string>Kachin</string>
+		<string>Kayah</string>
+		<string>Kayin</string>
+		<string>Magway</string>
+		<string>Mandalay</string>
+		<string>Mon</string>
+		<string>Rakhine</string>
+		<string>Sagaing</string>
+		<string>Shan</string>
+		<string>Tanintharyi</string>
+		<string>Yangon</string>
+	</array>
+	<key>Namibia</key>
+	<array>
+		<string>Caprivi</string>
+		<string>Erongo</string>
+		<string>Hardap</string>
+		<string>Karas</string>
+		<string>Khomae</string>
+		<string>Kunene</string>
+		<string>Ohangwena</string>
+		<string>Okavango</string>
+		<string>Omaheke</string>
+		<string>Omusati</string>
+		<string>Oshana</string>
+		<string>Oshikoto</string>
+		<string>Otjozondjupa</string>
+	</array>
+	<key>Netherlands</key>
+	<array>
+		<string>Drente</string>
+		<string>Flevoland</string>
+		<string>Friesland</string>
+		<string>Gelderland</string>
+		<string>Groningen</string>
+		<string>Limburg</string>
+		<string>Noord-Brabant</string>
+		<string>Noord-Holland</string>
+		<string>Overijssel</string>
+		<string>Utrecht</string>
+		<string>Zeeland</string>
+		<string>Zuid-Holland</string>
+	</array>
+	<key>New Zealand</key>
+	<array>
+		<string>Auckland</string>
+		<string>Bay of Plenty</string>
+		<string>Canterbury</string>
+		<string>Gisborne</string>
+		<string>Hawkes Bay</string>
+		<string>Manawatu-Wanganui</string>
+		<string>Marlborough</string>
+		<string>Nelson</string>
+		<string>Northland</string>
+		<string>Otago</string>
+		<string>Southland</string>
+		<string>Taranaki</string>
+		<string>Tasman</string>
+		<string>waikato</string>
+		<string>Wellington</string>
+		<string>West Coast</string>
+	</array>
+	<key>Nicaragua</key>
+	<array>
+		<string>Atlantico Norte</string>
+		<string>Atlantico Sur</string>
+		<string>Boaco</string>
+		<string>Carazo</string>
+		<string>Chinandega</string>
+		<string>Chontales</string>
+		<string>Esteli</string>
+		<string>Jinotega</string>
+		<string>Leon</string>
+		<string>Madriz</string>
+		<string>Managua</string>
+		<string>Masaya</string>
+		<string>Matagalpa</string>
+		<string>Nueva Segovia</string>
+		<string>Rio San Juan</string>
+		<string>Rivas</string>
+	</array>
+	<key>Niger</key>
+	<array>
+		<string>Agadez</string>
+		<string>Diffa</string>
+		<string>Dosso</string>
+		<string>Maradi</string>
+		<string>Niamey</string>
+		<string>Tahoua</string>
+		<string>Tillaberi</string>
+		<string>Zinder</string>
+	</array>
+	<key>Nigeria</key>
+	<array>
+		<string>Abia</string>
+		<string>Abuja Capital Territory</string>
+		<string>Adamawa</string>
+		<string>Akwa Ibom</string>
+		<string>Anambra</string>
+		<string>Bauchi</string>
+		<string>Bayelsa</string>
+		<string>Benue</string>
+		<string>Borno</string>
+		<string>Cross River</string>
+		<string>Delta</string>
+		<string>Ebonyi</string>
+		<string>Edo</string>
+		<string>Ekiti</string>
+		<string>Enugu</string>
+		<string>Gombe</string>
+		<string>Imo</string>
+		<string>Jigawa</string>
+		<string>Kaduna</string>
+		<string>Kano</string>
+		<string>Katsina</string>
+		<string>Kebbi</string>
+		<string>Kogi</string>
+		<string>Kwara</string>
+		<string>Lagos</string>
+		<string>Nassarawa</string>
+		<string>Niger</string>
+		<string>Ogun</string>
+		<string>Ondo</string>
+		<string>Osun</string>
+		<string>Oyo</string>
+		<string>Rivers</string>
+		<string>Sokoto</string>
+		<string>Taraba</string>
+		<string>Yobe</string>
+		<string>Zamfara</string>
+	</array>
+	<key>Norway</key>
+	<array>
+		<string>Akershus</string>
+		<string>Aust-Agder</string>
+		<string>Buskerud</string>
+		<string>Finumark</string>
+		<string>Hedmark</string>
+		<string>Hordaland</string>
+		<string>Jan Mayen</string>
+		<string>Mire og Romsdal</string>
+		<string>Nord-Trindelag</string>
+		<string>Nordland</string>
+		<string>Oppland</string>
+		<string>Oslo</string>
+		<string>Ostfold</string>
+		<string>Rogaland</string>
+		<string>Sir-Trindelag</string>
+		<string>Sogn og Fjordane</string>
+		<string>Svalbard</string>
+		<string>Telemark</string>
+		<string>Troms</string>
+		<string>Vest-Agder</string>
+		<string>Vestfold</string>
+	</array>
+	<key>Oman</key>
+	<array>
+		<string>Ad Dakhillyah</string>
+		<string>Al Batinah</string>
+		<string>Al Janblyah</string>
+		<string>Al Wusta</string>
+		<string>Ash Sharqlyah</string>
+		<string>Az Zahirah</string>
+		<string>Masqat</string>
+		<string>Musandam</string>
+	</array>
+	<key>Pakistan</key>
+	<array>
+		<string>Azad Rashmir</string>
+		<string>Baluchistan (en)</string>
+		<string>Federally Administered Tribal Aresa</string>
+		<string>Islamabad</string>
+		<string>North-West Frontier</string>
+		<string>Northern Areas</string>
+		<string>Sind (en)</string>
+	</array>
+	<key>Palestinian Territory, Occupied</key>
+	<array>
+		<string>Bethlehem</string>
+		<string>Deir el-Balah</string>
+		<string>Gaza</string>
+		<string>Hebron</string>
+		<string>Jenin</string>
+		<string>Jericho</string>
+		<string>Jerusalem</string>
+		<string>Khan Yunis</string>
+		<string>Nablus</string>
+		<string>North Gaza</string>
+		<string>Qalqilya</string>
+		<string>Rafah</string>
+		<string>Ramallah and Al-Bireh</string>
+		<string>Salfit</string>
+		<string>Tubas</string>
+		<string>Tulkarm</string>
+	</array>
+	<key>Panama</key>
+	<array>
+		<string>Bocas del Toro</string>
+		<string>Chiriqui</string>
+		<string>Cocle</string>
+		<string>Comarca de San Blas</string>
+		<string>Darien</string>
+		<string>Herrera</string>
+		<string>Loa Santoa</string>
+		<string>Panama</string>
+		<string>Veraguas</string>
+	</array>
+	<key>Papua New Guinea</key>
+	<array>
+		<string>Chimbu</string>
+		<string>East New Britain</string>
+		<string>East Sepik</string>
+		<string>Eastern Highlands</string>
+		<string>Enga</string>
+		<string>Gulf</string>
+		<string>Madang</string>
+		<string>Manus</string>
+		<string>Milne Bay</string>
+		<string>Morobe</string>
+		<string>National Capital District (Port Moresby)</string>
+		<string>New Ireland</string>
+		<string>North Solomons</string>
+		<string>Santaun</string>
+		<string>Southern Highlands</string>
+		<string>West New Britain</string>
+		<string>Western Highlands</string>
+	</array>
+	<key>Paraguay</key>
+	<array>
+		<string>Alto Paraguay</string>
+		<string>Alto Parana</string>
+		<string>Amambay</string>
+		<string>Asuncion</string>
+		<string>Boqueron</string>
+		<string>Caazapl</string>
+		<string>Caeguazu</string>
+		<string>Canindeyu</string>
+		<string>Concepcion</string>
+		<string>Cordillera</string>
+		<string>Guaira</string>
+		<string>Itapua</string>
+		<string>Miaiones</string>
+		<string>Neembucu</string>
+		<string>Paraguari</string>
+		<string>Presidente Hayes</string>
+		<string>San Pedro</string>
+	</array>
+	<key>Peru</key>
+	<array>
+		<string>Ancash</string>
+		<string>Apurimac</string>
+		<string>Arequipa</string>
+		<string>Ayacucho</string>
+		<string>Cajamarca</string>
+		<string>Cuzco</string>
+		<string>El Callao</string>
+		<string>Huancavelica</string>
+		<string>Huanuco</string>
+		<string>Ica</string>
+		<string>Junin</string>
+		<string>La Libertad</string>
+		<string>Lambayeque</string>
+		<string>Lima</string>
+		<string>Loreto</string>
+		<string>Madre de Dios</string>
+		<string>Moquegua</string>
+		<string>Pasco</string>
+		<string>Piura</string>
+		<string>Puno</string>
+		<string>San Martin</string>
+		<string>Tacna</string>
+		<string>Tumbes</string>
+		<string>Ucayali</string>
+	</array>
+	<key>Philippines</key>
+	<array>
+		<string>Abra</string>
+		<string>Agusan del Norte</string>
+		<string>Agusan del Sur</string>
+		<string>Aklan</string>
+		<string>Albay</string>
+		<string>Antique</string>
+		<string>Apayao</string>
+		<string>Aurora</string>
+		<string>Basilan</string>
+		<string>Batanes</string>
+		<string>Batangas</string>
+		<string>Batasn</string>
+		<string>Benguet</string>
+		<string>Biliran</string>
+		<string>Bohol</string>
+		<string>Bukidnon</string>
+		<string>Bulacan</string>
+		<string>Cagayan</string>
+		<string>Camarines Norte</string>
+		<string>Camarines Sur</string>
+		<string>Camiguin</string>
+		<string>Capiz</string>
+		<string>Catanduanes</string>
+		<string>Cavite</string>
+		<string>Cebu</string>
+		<string>Compostela Valley</string>
+		<string>Davao</string>
+		<string>Davao del Sur</string>
+		<string>Davao Oriental</string>
+		<string>Eastern Samar</string>
+		<string>Guimaras</string>
+		<string>Ifugao</string>
+		<string>Ilocos Norte</string>
+		<string>Ilocos Sur</string>
+		<string>Iloilo</string>
+		<string>Isabela</string>
+		<string>Kalinga-Apayso</string>
+		<string>La Union</string>
+		<string>Laguna</string>
+		<string>Lanao del Norte</string>
+		<string>Lanao del Sur</string>
+		<string>Leyte</string>
+		<string>Maguindanao</string>
+		<string>Marinduque</string>
+		<string>Masbate</string>
+		<string>Mindoro Occidental</string>
+		<string>Mindoro Oriental</string>
+		<string>Misamis Occidental</string>
+		<string>Misamis Oriental</string>
+		<string>Mountain Province</string>
+		<string>Negroe Occidental</string>
+		<string>Negros Oriental</string>
+		<string>North Cotabato</string>
+		<string>Northern Samar</string>
+		<string>Nueva Ecija</string>
+		<string>Nueva Vizcaya</string>
+		<string>Palawan</string>
+		<string>Pampanga</string>
+		<string>Pangasinan</string>
+		<string>Quezon</string>
+		<string>Quirino</string>
+		<string>Rizal</string>
+		<string>Romblon</string>
+		<string>Sarangani</string>
+		<string>Siquijor</string>
+		<string>Sorsogon</string>
+		<string>South Cotabato</string>
+		<string>Southern Leyte</string>
+		<string>Sultan Kudarat</string>
+		<string>Sulu</string>
+		<string>Surigao del Norte</string>
+		<string>Surigao del Sur</string>
+		<string>Tarlac</string>
+		<string>Tawi-Tawi</string>
+		<string>Western Samar</string>
+		<string>Zambales</string>
+		<string>Zamboanga del Norte</string>
+		<string>Zamboanga del Sur</string>
+		<string>Zamboanga Sibiguey</string>
+	</array>
+	<key>Poland</key>
+	<array>
+		<string>kujawsko-pomorskie</string>
+		<string>lubelskie</string>
+		<string>lubuskie</string>
+		<string>mazowieckie</string>
+		<string>ńsko-mazurskie</string>
+		<string>opolskie</string>
+		<string>podkarpackie</string>
+		<string>podlaskie</string>
+		<string>pomorskie</string>
+		<string>śląskie</string>
+		<string>śląskie</string>
+		<string>świętokrzyskie</string>
+		<string>wielkopolskie</string>
+		<string>zachodniopomorskie</string>
+		<string>łopolskie</string>
+		<string>łódzkie</string>
+	</array>
+	<key>Portugal</key>
+	<array>
+		<string>Aveiro</string>
+		<string>Beja</string>
+		<string>Braga</string>
+		<string>Braganca</string>
+		<string>Castelo Branco</string>
+		<string>Colmbra</string>
+		<string>Faro</string>
+		<string>Guarda</string>
+		<string>Leiria</string>
+		<string>Lisboa</string>
+		<string>Ovora</string>
+		<string>Portalegre</string>
+		<string>Porto</string>
+		<string>Regiao Autonoma da Madeira</string>
+		<string>Regiao Autonoma dos Acores</string>
+		<string>Santarem</string>
+		<string>Setubal</string>
+		<string>Viana do Castelo</string>
+		<string>Vila Real</string>
+		<string>Viseu</string>
+	</array>
+	<key>Qatar</key>
+	<array>
+		<string>Ad Dawhah</string>
+		<string>Al Ghuwayriyah</string>
+		<string>Al Jumayliyah</string>
+		<string>Al Khawr</string>
+		<string>Al Wakrah</string>
+		<string>Ar Rayyan</string>
+		<string>Jariyan al Batnah</string>
+		<string>Madinat ash Shamal</string>
+		<string>Umm Salal</string>
+	</array>
+	<key>Romania</key>
+	<array>
+		<string>Alba</string>
+		<string>Arad</string>
+		<string>Arges</string>
+		<string>Bacau</string>
+		<string>Bihor</string>
+		<string>Bistrita-Nasaud</string>
+		<string>Boto'ani</string>
+		<string>Bra'ov</string>
+		<string>Braila</string>
+		<string>Bucuresti</string>
+		<string>Buzau</string>
+		<string>Ca la ras'i</string>
+		<string>Caras-Severin</string>
+		<string>Cluj</string>
+		<string>Constant'a</string>
+		<string>Covasna</string>
+		<string>Dambovit'a</string>
+		<string>Dolj</string>
+		<string>Galat'i</string>
+		<string>Giurgiu</string>
+		<string>Gorj</string>
+		<string>Harghita</string>
+		<string>Hunedoara</string>
+		<string>Ialomit'a</string>
+		<string>Ias'i</string>
+		<string>Ilfov</string>
+		<string>Maramures</string>
+		<string>Mehedint'i</string>
+		<string>Mures</string>
+		<string>Neamt</string>
+		<string>Olt</string>
+		<string>Prahova</string>
+		<string>Sa laj</string>
+		<string>Satu Mare</string>
+		<string>Sibiu</string>
+		<string>Suceava</string>
+		<string>Teleorman</string>
+		<string>Timis</string>
+		<string>Tulcea</string>
+		<string>Valcea</string>
+		<string>Vaslui</string>
+		<string>Vrancea</string>
+	</array>
+	<key>Russian Federation</key>
+	<array>
+		<string>Adygeya, Respublika</string>
+		<string>Aginskiy Buryatskiy avtonomnyy</string>
+		<string>Altay, Respublika</string>
+		<string>Altayskiy kray</string>
+		<string>Amurskaya oblast'</string>
+		<string>Arkhangel'skaya oblast'</string>
+		<string>Astrakhanskaya oblast'</string>
+		<string>Bashkortostan, Respublika</string>
+		<string>Belgorodskaya oblast'</string>
+		<string>Bryanskaya oblast'</string>
+		<string>Buryatiya, Respublika</string>
+		<string>Chechenskaya Respublika</string>
+		<string>Chelyabinskaya oblast'</string>
+		<string>Chitinskaya oblast'</string>
+		<string>Chukotskiy avtonomnyy okrug</string>
+		<string>Chuvashskaya Respublika</string>
+		<string>Dagestan, Respublika</string>
+		<string>Evenkiyskiy avtonomnyy okrug</string>
+		<string>Ingushskaya Respublika</string>
+		<string>Irkutskaya oblast'</string>
+		<string>Ivanovskaya oblast'</string>
+		<string>Kabardino-Balkarskaya</string>
+		<string>Kaliningradskaya oblast'</string>
+		<string>Kalmykiya, Respublika</string>
+		<string>Kaluzhskaya oblast'</string>
+		<string>Kamchatskaya oblast'</string>
+		<string>Karachayevo-Cherkesskaya Respublika</string>
+		<string>Kareliya, Respublika</string>
+		<string>Kemerovskaya oblast'</string>
+		<string>Khabarovskiy kray</string>
+		<string>Khakasiya, Respublika</string>
+		<string>Khanty-Mansiyskiy avtonomnyy okrug</string>
+		<string>Kirovskaya oblast'</string>
+		<string>Komi, Respublika</string>
+		<string>Komi-Permyatskiy avtonomnyy okrug</string>
+		<string>Koryakskiy avtonomnyy okrug</string>
+		<string>Kostromskaya oblast'</string>
+		<string>Krasnodarskiy kray</string>
+		<string>Krasnoyarskiy kray</string>
+		<string>Kurganskaya oblast'</string>
+		<string>Kurskaya oblast'</string>
+		<string>Leningradskaya oblast'</string>
+		<string>Lipetskaya oblast'</string>
+		<string>Magadanskaya oblast'</string>
+		<string>Mariy El, Respublika</string>
+		<string>Mordoviya, Respublika</string>
+		<string>Moskovskaya oblast'</string>
+		<string>Moskva</string>
+		<string>Murmanskaya oblast'</string>
+		<string>Nenetskiy avtonomnyy okrug</string>
+		<string>Nizhegorodskaya oblast'</string>
+		<string>Novgorodskaya oblast'</string>
+		<string>Novosibirskaya oblast'</string>
+		<string>Omskaya oblast'</string>
+		<string>Orenburgskaya oblast'</string>
+		<string>Orlovskaya oblast'</string>
+		<string>Penzenskaya oblast'</string>
+		<string>Permskaya oblast'</string>
+		<string>Primorskiy kray</string>
+		<string>Pskovskaya oblast'</string>
+		<string>Rostovskaya oblast'</string>
+		<string>Ryazanskaya oblast'</string>
+		<string>Sakha, Respublika [Yakutiya]</string>
+		<string>Sakhalinskaya oblast'</string>
+		<string>Samarskaya oblast'</string>
+		<string>Sankt-Peterburg</string>
+		<string>Saratovskaya oblast'</string>
+		<string>Severnaya Osetiya, Respublika</string>
+		<string>Smolenskaya oblast'</string>
+		<string>Stavropol'skiy kray</string>
+		<string>Sverdlovskaya oblast'</string>
+		<string>Tambovskaya oblast'</string>
+		<string>Tatarstan, Respublika</string>
+		<string>Taymyrskiy (Dolgano-Nenetskiy)</string>
+		<string>Tomskaya oblast'</string>
+		<string>Tul'skaya oblast'</string>
+		<string>Tverskaya oblast'</string>
+		<string>Tyumenskaya oblast'</string>
+		<string>Tyva, Respublika [Tuva]</string>
+		<string>Udmurtskaya Respublika</string>
+		<string>Ul'yanovskaya oblast'</string>
+		<string>Ust'-Ordynskiy Buryatskiy</string>
+		<string>Vladimirskaya oblast'</string>
+		<string>Volgogradskaya oblast'</string>
+		<string>Vologodskaya oblast'</string>
+		<string>Voronezhskaya oblast'</string>
+		<string>Yamalo-Nenetskiy avtonomnyy okrug</string>
+		<string>Yaroslavskaya oblast'</string>
+		<string>Yevreyskaya avtonomnaya oblast'</string>
+	</array>
+	<key>Rwanda</key>
+	<array>
+		<string>Butare</string>
+		<string>Byumba</string>
+		<string>Cyangugu</string>
+		<string>Gikongoro</string>
+		<string>Gisenyi</string>
+		<string>Gitarama</string>
+		<string>Kibungo</string>
+		<string>Kibuye</string>
+		<string>Kigali-Rural Kigali y' Icyaro</string>
+		<string>Kigali-Ville Kigali Ngari</string>
+		<string>Mutara</string>
+		<string>Ruhengeri</string>
+	</array>
+	<key>Saint Helena</key>
+	<array>
+		<string>Ascension</string>
+		<string>Saint Helena</string>
+		<string>Tristan da Cunha</string>
+	</array>
+	<key>Samoa</key>
+	<array>
+		<string>A'ana</string>
+		<string>Aiga-i-le-Tai</string>
+		<string>Atua</string>
+		<string>Fa'aaaleleaga</string>
+		<string>Gaga'emauga</string>
+		<string>Gagaifomauga</string>
+		<string>Palauli</string>
+		<string>Satupa'itea</string>
+		<string>Tuamasaga</string>
+		<string>Va'a-o-Fonoti</string>
+		<string>Vaisigano</string>
+	</array>
+	<key>Sao Tome and Principe</key>
+	<array>
+		<string>Principe</string>
+		<string>Sao Tome</string>
+	</array>
+	<key>Saudi Arabia</key>
+	<array>
+		<string>Al Batah</string>
+		<string>Al H,udd ash Shamallyah</string>
+		<string>Al Jawf</string>
+		<string>Al Madinah</string>
+		<string>Al Qasim</string>
+		<string>Ar Riyad</string>
+		<string>Asir</string>
+		<string>Ha'il</string>
+		<string>Jlzan</string>
+		<string>Makkah</string>
+		<string>Najran</string>
+		<string>Tabuk</string>
+	</array>
+	<key>Senegal</key>
+	<array>
+		<string>Dakar</string>
+		<string>Diourbel</string>
+		<string>Fatick</string>
+		<string>Kaolack</string>
+		<string>Kolda</string>
+		<string>Louga</string>
+		<string>Matam</string>
+		<string>Saint-Louis</string>
+		<string>Tambacounda</string>
+		<string>Thies</string>
+		<string>Ziguinchor</string>
+	</array>
+	<key>Serbia and Montenegro</key>
+	<array>
+		<string>Crna Gora</string>
+		<string>Kosovo-Metohija</string>
+		<string>Srbija</string>
+		<string>Vojvodina</string>
+	</array>
+	<key>Sierra Leone</key>
+	<array>
+		<string>Western Area (Freetown)</string>
+	</array>
+	<key>Slovakia</key>
+	<array>
+		<string>čiansky kraj</string>
+		<string>Nitriansky kraj</string>
+		<string>šický kraj</string>
+		<string>šovský kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>ý kraj</string>
+		<string>Žilinský kraj</string>
+	</array>
+	<key>Slovenia</key>
+	<array>
+		<string>Ajdovscina</string>
+		<string>Beltinci</string>
+		<string>Benedikt</string>
+		<string>Bistrica ob Sotli</string>
+		<string>Bled</string>
+		<string>Bloke</string>
+		<string>Bohinj</string>
+		<string>Borovnica</string>
+		<string>Bovec</string>
+		<string>Braslovce</string>
+		<string>Brda</string>
+		<string>Brezica</string>
+		<string>Brezovica</string>
+		<string>Cankova</string>
+		<string>Celje</string>
+		<string>Cerklje na Gorenjskem</string>
+		<string>Cerknica</string>
+		<string>Cerkno</string>
+		<string>Cerkvenjak</string>
+		<string>Crensovci</string>
+		<string>Crna na Koroskem</string>
+		<string>Crnomelj</string>
+		<string>Destrnik</string>
+		<string>Divaca</string>
+		<string>Dobje</string>
+		<string>Dobrepolje</string>
+		<string>Dobrna</string>
+		<string>Dobrova-Polhov Gradec</string>
+		<string>Dobrovnik</string>
+		<string>Dol pri Ljubljani</string>
+		<string>Dolenjske Toplice</string>
+		<string>Domzale</string>
+		<string>Dornava</string>
+		<string>Dravograd</string>
+		<string>Duplek</string>
+		<string>Gorenja vas-Poljane</string>
+		<string>Gornja Radgona</string>
+		<string>Gornji Grad</string>
+		<string>Gornji Petrovci</string>
+		<string>Gorsnica</string>
+		<string>Grad</string>
+		<string>Grosuplje</string>
+		<string>Hajdina</string>
+		<string>Hoce-Slivnica</string>
+		<string>Hodos</string>
+		<string>Hrastnik</string>
+		<string>Hrpelje-Kozina</string>
+		<string>Idrija</string>
+		<string>Ig</string>
+		<string>IIrska Bistrica</string>
+		<string>Ivancna Gorica</string>
+		<string>Izola</string>
+		<string>Jesenice</string>
+		<string>Jezersko</string>
+		<string>Jorjul</string>
+		<string>Jovevje</string>
+		<string>Jursinci</string>
+		<string>Kamnik</string>
+		<string>Kanal</string>
+		<string>Kidricevo</string>
+		<string>Kobarid</string>
+		<string>Kobilje</string>
+		<string>Komen</string>
+		<string>Komenda</string>
+		<string>Koper</string>
+		<string>Kostel</string>
+		<string>Kozje</string>
+		<string>Kranj</string>
+		<string>Kranjska Gora</string>
+		<string>Krizevci</string>
+		<string>Krsko</string>
+		<string>Kungota</string>
+		<string>Kuzma</string>
+		<string>Lasko</string>
+		<string>Lenart</string>
+		<string>Lendava</string>
+		<string>Litija</string>
+		<string>Ljubljana</string>
+		<string>Ljubno</string>
+		<string>Ljutomer</string>
+		<string>Logatec</string>
+		<string>Loska dolina</string>
+		<string>Loski Potok</string>
+		<string>Lovrenc na Pohorju</string>
+		<string>Luce</string>
+		<string>Lukovica</string>
+		<string>Majsperk</string>
+		<string>Maribor</string>
+		<string>Markovci</string>
+		<string>Medvode</string>
+		<string>Menges</string>
+		<string>Metlika</string>
+		<string>Mezica</string>
+		<string>Miklavz na Dravskern polju</string>
+		<string>Miren-Kostanjevica</string>
+		<string>Mirna Pec</string>
+		<string>Mislinja</string>
+		<string>Moravce</string>
+		<string>Moravske Toplice</string>
+		<string>Mozirje</string>
+		<string>Murska Sobota</string>
+		<string>Muta</string>
+		<string>Naklo</string>
+		<string>Nazarje</string>
+		<string>Nova Gorica</string>
+		<string>Nova mesto</string>
+		<string>Salovci</string>
+		<string>Sempeter-Vrtojba</string>
+		<string>Sencur</string>
+		<string>Sentilj</string>
+		<string>Sentjernej</string>
+		<string>Sentjur pri Celju</string>
+		<string>Skocjan</string>
+		<string>Skofja Loka</string>
+		<string>Skoftjica</string>
+		<string>Smarje pri Jelsah</string>
+		<string>Smartno ob Paki</string>
+		<string>Smartno pri Litiji</string>
+		<string>Sostanj</string>
+		<string>Store</string>
+		<string>Sveta Ana</string>
+		<string>Sveti Andraz v Slovenskih goricah</string>
+		<string>Sveti Jurij</string>
+		<string>Tabor</string>
+		<string>Tisina</string>
+		<string>Tolmin</string>
+		<string>Trbovje</string>
+		<string>Trebnje</string>
+		<string>Trnovska vas</string>
+		<string>Trzic</string>
+		<string>Trzin</string>
+		<string>Turnisce</string>
+		<string>Velenje</string>
+		<string>Velika Lasce</string>
+		<string>Velika Polana</string>
+		<string>Verzej</string>
+		<string>Videm</string>
+		<string>Vipava</string>
+		<string>Vitanje</string>
+		<string>Vojnik</string>
+		<string>Vransko</string>
+		<string>Vrhnika</string>
+		<string>Vuzenica</string>
+		<string>Zagorje ob Savi</string>
+		<string>Zalec</string>
+		<string>Zavrc</string>
+		<string>Zelezniki</string>
+		<string>Zetale</string>
+		<string>Ziri</string>
+		<string>Zirovnica</string>
+		<string>Zrece</string>
+		<string>Zuzemberk</string>
+	</array>
+	<key>Solomon Islands</key>
+	<array>
+		<string>Capital Territory (Honiara)</string>
+		<string>Guadalcanal</string>
+		<string>Isabel</string>
+		<string>Makira</string>
+		<string>Malaita</string>
+		<string>Temotu</string>
+	</array>
+	<key>Somalia</key>
+	<array>
+		<string>Awdal</string>
+		<string>Bakool</string>
+		<string>Banaadir</string>
+		<string>Bay</string>
+		<string>Galguduud</string>
+		<string>Gedo</string>
+		<string>Hiirsan</string>
+		<string>Jubbada Dhexe</string>
+		<string>Jubbada Hoose</string>
+		<string>Mudug</string>
+		<string>Nugaal</string>
+		<string>Saneag</string>
+		<string>Shabeellaha Dhexe</string>
+		<string>Shabeellaha Hoose</string>
+		<string>Sool</string>
+		<string>Togdheer</string>
+		<string>Woqooyi Galbeed</string>
+	</array>
+	<key>South Africa</key>
+	<array>
+		<string>Eastern Cape</string>
+		<string>Free State</string>
+		<string>Gauteng</string>
+		<string>Kwazulu-Natal</string>
+		<string>Limpopo</string>
+		<string>Mpumalanga</string>
+		<string>North West</string>
+		<string>Northern Cape</string>
+		<string>Western Cape</string>
+	</array>
+	<key>Spain</key>
+	<array>
+		<string>Albacete</string>
+		<string>Alicante</string>
+		<string>Asturias</string>
+		<string>áceres</string>
+		<string>ádiz</string>
+		<string>álaga</string>
+		<string>Álava</string>
+		<string>Ávila</string>
+		<string>Badajoz</string>
+		<string>Baleares</string>
+		<string>Barcelona</string>
+		<string>Burgos</string>
+		<string>Cantabria</string>
+		<string>Ceuta</string>
+		<string>Ciudad Real</string>
+		<string>Cuenca</string>
+		<string>én</string>
+		<string>érida]</string>
+		<string>Girona [Gerona]</string>
+		<string>Granada</string>
+		<string>Guadalajara</string>
+		<string>Huelva</string>
+		<string>Huesca</string>
+		<string>ía</string>
+		<string>La Rioja</string>
+		<string>Las Palmas</string>
+		<string>Lugo</string>
+		<string>Madrid</string>
+		<string>Melilla</string>
+		<string>Murcia</string>
+		<string>Navarra</string>
+		<string>ña</string>
+		<string>Ourense</string>
+		<string>ón</string>
+		<string>ón</string>
+		<string>Palencia</string>
+		<string>Pontevedra</string>
+		<string>Salamanca</string>
+		<string>Santa Cruz de Tenerife</string>
+		<string>Segovia</string>
+		<string>Sevilla</string>
+		<string>Soria</string>
+		<string>Tarragona</string>
+		<string>Teruel</string>
+		<string>úzcoa</string>
+		<string>Valencia</string>
+		<string>Valladolid</string>
+		<string>Vizcaya</string>
+		<string>Zamora</string>
+		<string>Zaragoza</string>
+	</array>
+	<key>Sri Lanka</key>
+	<array>
+		<string>Ampara</string>
+		<string>Anuradhapura</string>
+		<string>Badulla</string>
+		<string>Batticaloa</string>
+		<string>Colombo</string>
+		<string>Galle</string>
+		<string>Gampaha</string>
+		<string>Hambantota</string>
+		<string>Jaffna</string>
+		<string>Kalutara</string>
+		<string>Kandy</string>
+		<string>Kegalla</string>
+		<string>Kilinochchi</string>
+		<string>Kurunegala</string>
+		<string>Mannar</string>
+		<string>Matale</string>
+		<string>Matara</string>
+		<string>Monaragala</string>
+		<string>Mullaittivu</string>
+		<string>Nuwara Eliya</string>
+		<string>Polonnaruwa</string>
+		<string>Puttalum</string>
+		<string>Ratnapura</string>
+		<string>Trincomalee</string>
+		<string>VavunLya</string>
+	</array>
+	<key>Sudan</key>
+	<array>
+		<string>A'ali an Nil</string>
+		<string>Al Bah al Ahmar</string>
+		<string>Al Buhayrat</string>
+		<string>Al Jazirah</string>
+		<string>Al Khartum</string>
+		<string>Al Qadarif</string>
+		<string>Al Wahdah</string>
+		<string>An Nil</string>
+		<string>An Nil al Abyaq</string>
+		<string>An Nil al Azraq</string>
+		<string>Ash Shamallyah</string>
+		<string>Bahr al Jabal</string>
+		<string>Gharb al Istiwa'iyah</string>
+		<string>Gharb Ba~r al Ghazal</string>
+		<string>Gharb Darfur</string>
+		<string>Gharb Kurdufan</string>
+		<string>Janub Darfur</string>
+		<string>Janub Rurdufan</string>
+		<string>Jnqall</string>
+		<string>Kassala</string>
+		<string>Shamal Batr al Ghazal</string>
+		<string>Shamal Darfur</string>
+		<string>Shamal Kurdufan</string>
+		<string>Sharq al Istiwa'iyah</string>
+		<string>Sinnar</string>
+		<string>Warab</string>
+	</array>
+	<key>Suriname</key>
+	<array>
+		<string>Brokopondo</string>
+		<string>Commewijne</string>
+		<string>Coronie</string>
+		<string>Marowijne</string>
+		<string>Nickerie</string>
+		<string>Paramaribo</string>
+		<string>Saramacca</string>
+		<string>Sipaliwini</string>
+		<string>Wanica</string>
+	</array>
+	<key>Swaziland</key>
+	<array>
+		<string>Hhohho</string>
+		<string>Lubombo</string>
+		<string>Manzini</string>
+		<string>Shiselweni</string>
+	</array>
+	<key>Sweden</key>
+	<array>
+		<string>Blekinge lan</string>
+		<string>Dalarnas lan</string>
+		<string>Gavleborge lan</string>
+		<string>Gotlands lan</string>
+		<string>Hallands lan</string>
+		<string>Jamtlande lan</string>
+		<string>Jonkopings lan</string>
+		<string>Kalmar lan</string>
+		<string>Kronoberge lan</string>
+		<string>Norrbottena lan</string>
+		<string>Orebro lan</string>
+		<string>Ostergotlands lan</string>
+		<string>Skane lan</string>
+		<string>Sodermanlands lan</string>
+		<string>Stockholms lan</string>
+		<string>Uppsala lan</string>
+		<string>Varmlanda lan</string>
+		<string>Vasterbottens lan</string>
+		<string>Vasternorrlands lan</string>
+		<string>Vastmanlanda lan</string>
+		<string>Vastra Gotalands lan</string>
+	</array>
+	<key>Switzerland</key>
+	<array>
+		<string>Aargau</string>
+		<string>Appenzell Ausserrhoden</string>
+		<string>Appenzell Innerrhoden</string>
+		<string>Basel-Landschaft</string>
+		<string>Basel-Stadt</string>
+		<string>Bern</string>
+		<string>Fribourg</string>
+		<string>Geneva</string>
+		<string>Glarus</string>
+		<string>Graubunden</string>
+		<string>Jura</string>
+		<string>Luzern</string>
+		<string>Neuchatel</string>
+		<string>Nidwalden</string>
+		<string>Obwalden</string>
+		<string>Sankt Gallen</string>
+		<string>Schaffhausen</string>
+		<string>Schwyz</string>
+		<string>Solothurn</string>
+		<string>Thurgau</string>
+		<string>Ticino</string>
+		<string>Uri</string>
+		<string>Valais</string>
+		<string>Vaud</string>
+		<string>Zug</string>
+		<string>Zurich</string>
+	</array>
+	<key>Syrian Arab Republic</key>
+	<array>
+		<string>Al Hasakah</string>
+		<string>Al Ladhiqiyah</string>
+		<string>Al Qunaytirah</string>
+		<string>Ar Raqqah</string>
+		<string>As Suwayda'</string>
+		<string>Dar'a</string>
+		<string>Dayr az Zawr</string>
+		<string>Dimashq</string>
+		<string>Halab</string>
+		<string>Hamah</string>
+		<string>Idlib</string>
+		<string>Jim'</string>
+		<string>Rif Dimashq</string>
+		<string>Tarts</string>
+	</array>
+	<key>Taiwan</key>
+	<array>
+		<string>Changhua</string>
+		<string>Chiayi</string>
+		<string>Hsinchu</string>
+		<string>Hualien</string>
+		<string>Ilan</string>
+		<string>Kaohsiung</string>
+		<string>Keelung</string>
+		<string>Miaoli</string>
+		<string>Nantou</string>
+		<string>Penghu</string>
+		<string>Pingtung</string>
+		<string>Taichung</string>
+		<string>Tainan</string>
+		<string>Taipei</string>
+		<string>Taitung</string>
+		<string>Taoyuan</string>
+		<string>Yunlin</string>
+	</array>
+	<key>Tajikistan</key>
+	<array>
+		<string>Gorno-Badakhshan</string>
+		<string>Khatlon</string>
+		<string>Sughd</string>
+	</array>
+	<key>Tanzania, United Republic of</key>
+	<array>
+		<string>Arusha</string>
+		<string>Dar-es-Salaam</string>
+		<string>Dodoma</string>
+		<string>Iringa</string>
+		<string>Kagera</string>
+		<string>Kaskazini Pemba</string>
+		<string>Kaskazini Unguja</string>
+		<string>Kilimanjaro</string>
+		<string>Kusini Unguja</string>
+		<string>Lindi</string>
+		<string>Manyara</string>
+		<string>Mara</string>
+		<string>Mbeya</string>
+		<string>Mjini Magharibi</string>
+		<string>Morogoro</string>
+		<string>Mtwara</string>
+		<string>Pwani</string>
+		<string>Rukwa</string>
+		<string>Rusini Pemba</string>
+		<string>Ruvuma</string>
+		<string>Shinyanga</string>
+		<string>Singida</string>
+		<string>Tabora</string>
+		<string>Tanga</string>
+		<string>Xigoma</string>
+	</array>
+	<key>Thailand</key>
+	<array>
+		<string>Amnat Charoen</string>
+		<string>Ang Thong</string>
+		<string>Buri Ram</string>
+		<string>Chachoengsao</string>
+		<string>Chai Nat</string>
+		<string>Chaiyaphum</string>
+		<string>Chanthaburi</string>
+		<string>Chiang Mai</string>
+		<string>Chiang Rai</string>
+		<string>Chon Buri</string>
+		<string>Chumphon</string>
+		<string>Kalasin</string>
+		<string>Kamphasng Phet</string>
+		<string>Kanchanaburi</string>
+		<string>Khon Kaen</string>
+		<string>Krabi</string>
+		<string>Krung Thep Maha Nakhon Bangkok</string>
+		<string>Lampang</string>
+		<string>Lamphun</string>
+		<string>Loei</string>
+		<string>Lop Buri</string>
+		<string>Mae Hong Son</string>
+		<string>Maha Sarakham</string>
+		<string>Mukdahan</string>
+		<string>Nakhon Nayok</string>
+		<string>Nakhon Pathom</string>
+		<string>Nakhon Phanom</string>
+		<string>Nakhon Ratchasima</string>
+		<string>Nakhon Sawan</string>
+		<string>Nakhon Si Thammarat</string>
+		<string>Nan</string>
+		<string>Narathiwat</string>
+		<string>Nong Bua Lam Phu</string>
+		<string>Nong Khai</string>
+		<string>Nonthaburi</string>
+		<string>Pathum Thani</string>
+		<string>Pattani</string>
+		<string>Phaket</string>
+		<string>Phangnga</string>
+		<string>Phatthalung</string>
+		<string>Phatthaya</string>
+		<string>Phayao</string>
+		<string>Phetchabun</string>
+		<string>Phetchaburi</string>
+		<string>Phichit</string>
+		<string>Phitsanulok</string>
+		<string>Phra Nakhon Si Ayutthaya</string>
+		<string>Phrae</string>
+		<string>Prachin Buri</string>
+		<string>Prachuap Khiri Khan</string>
+		<string>Ranong</string>
+		<string>Ratchaburi</string>
+		<string>Rayong</string>
+		<string>Roi Et</string>
+		<string>Sa Kaeo</string>
+		<string>Sakon Nakhon</string>
+		<string>Samut Prakan</string>
+		<string>Samut Sakhon</string>
+		<string>Samut Songkhram</string>
+		<string>Saraburi</string>
+		<string>Satun</string>
+		<string>Si Sa Ket</string>
+		<string>Sing Buri</string>
+		<string>Songkhla</string>
+		<string>Sukhothai</string>
+		<string>Suphan Buri</string>
+		<string>Surat Thani</string>
+		<string>Surin</string>
+		<string>Tak</string>
+		<string>Trang</string>
+		<string>Trat</string>
+		<string>Ubon Ratchathani</string>
+		<string>Udon Thani</string>
+		<string>Uthai Thani</string>
+		<string>Uttaradit</string>
+		<string>Yala</string>
+		<string>Yasothon</string>
+	</array>
+	<key>Timor-Leste</key>
+	<array>
+		<string>Aileu</string>
+		<string>Ainaro</string>
+		<string>Bacucau</string>
+		<string>Bobonaro</string>
+		<string>Cova Lima</string>
+		<string>Dili</string>
+		<string>Ermera</string>
+		<string>Laulem</string>
+		<string>Liquica</string>
+		<string>Manafahi</string>
+		<string>Manatuto</string>
+		<string>Oecussi</string>
+		<string>Viqueque</string>
+	</array>
+	<key>Togo</key>
+	<array>
+		<string>Kara</string>
+		<string>Maritime (Region)</string>
+		<string>Savannes</string>
+	</array>
+	<key>Trinidad and Tobago</key>
+	<array>
+		<string>Arima</string>
+		<string>Chaguanas</string>
+		<string>Couva-Tabaquite-Talparo</string>
+		<string>Diego Martin</string>
+		<string>Eastern Tobago</string>
+		<string>Penal-Debe</string>
+		<string>Point Fortin</string>
+		<string>Port of Spain</string>
+		<string>Princes Town</string>
+		<string>Rio Claro-Mayaro</string>
+		<string>San Fernando</string>
+		<string>San Juan-Laventille</string>
+		<string>Sangre Grande</string>
+		<string>Siparia</string>
+		<string>Tunapuna-Piarco</string>
+		<string>Western Tobago</string>
+	</array>
+	<key>Tunisia</key>
+	<array>
+		<string>Ben Arous</string>
+		<string>Bizerte</string>
+		<string>ès</string>
+		<string>éja</string>
+		<string>Gafsa</string>
+		<string>Jendouba</string>
+		<string>Kairouan</string>
+		<string>Kebili</string>
+		<string>L'Ariana</string>
+		<string>La Manouba</string>
+		<string>Le Ref</string>
+		<string>Mahdia</string>
+		<string>Medenine</string>
+		<string>Moneatir</string>
+		<string>Naboul</string>
+		<string>Rasserine</string>
+		<string>Sfax</string>
+		<string>Sidi Bouxid</string>
+		<string>Siliana</string>
+		<string>Sousse</string>
+		<string>Tataouine</string>
+		<string>Tozeur</string>
+		<string>Tunis</string>
+		<string>Zaghouan</string>
+	</array>
+	<key>Turkey</key>
+	<array>
+		<string>Ad yaman</string>
+		<string>Adana</string>
+		<string>Afyon</string>
+		<string>Ag r</string>
+		<string>Aksaray</string>
+		<string>Amasya</string>
+		<string>Ankara</string>
+		<string>Antalya</string>
+		<string>Ardahan</string>
+		<string>Artvin</string>
+		<string>Aydin</string>
+		<string>Bal kesir</string>
+		<string>Bartin</string>
+		<string>Batman</string>
+		<string>Bayburt</string>
+		<string>Bilecik</string>
+		<string>Bingol</string>
+		<string>Bitlis</string>
+		<string>Bolu</string>
+		<string>Burdur</string>
+		<string>Bursa</string>
+		<string>Canakkale</string>
+		<string>Cankir</string>
+		<string>Corum</string>
+		<string>Denizli</string>
+		<string>Diyarbakir</string>
+		<string>Duzce</string>
+		<string>Edirne</string>
+		<string>Elazig</string>
+		<string>Erzincan</string>
+		<string>Erzurum</string>
+		<string>Eskis'ehir</string>
+		<string>Gaziantep</string>
+		<string>Giresun</string>
+		<string>Gms'hane</string>
+		<string>Hakkari</string>
+		<string>Hatay</string>
+		<string>Icel</string>
+		<string>Igidir</string>
+		<string>Isparta</string>
+		<string>Istanbul</string>
+		<string>Izmir</string>
+		<string>Kahramanmaras</string>
+		<string>Karabk</string>
+		<string>Karaman</string>
+		<string>Kars</string>
+		<string>Kastamonu</string>
+		<string>Kayseri</string>
+		<string>Kilis</string>
+		<string>Kirikkale</string>
+		<string>Kirklareli</string>
+		<string>Kirs'ehir</string>
+		<string>Kocaeli</string>
+		<string>Konya</string>
+		<string>Ktahya</string>
+		<string>Malatya</string>
+		<string>Manisa</string>
+		<string>Mardin</string>
+		<string>Mugila</string>
+		<string>Mus</string>
+		<string>Nevs'ehir</string>
+		<string>Nigide</string>
+		<string>Ordu</string>
+		<string>Osmaniye</string>
+		<string>Rize</string>
+		<string>S'anliurfa</string>
+		<string>S'rnak</string>
+		<string>Sakarya</string>
+		<string>Samsun</string>
+		<string>Siirt</string>
+		<string>Sinop</string>
+		<string>Sivas</string>
+		<string>Tekirdag</string>
+		<string>Tokat</string>
+		<string>Trabzon</string>
+		<string>Tunceli</string>
+		<string>Us'ak</string>
+		<string>Van</string>
+		<string>Yalova</string>
+		<string>Yozgat</string>
+		<string>Zonguldak</string>
+	</array>
+	<key>Turkmenistan</key>
+	<array>
+		<string>Ahal</string>
+		<string>Balkan</string>
+		<string>Dasoguz</string>
+		<string>Lebap</string>
+		<string>Mary</string>
+	</array>
+	<key>Uganda</key>
+	<array>
+		<string>Adjumani</string>
+		<string>Apac</string>
+		<string>Arua</string>
+		<string>Bugiri</string>
+		<string>Bundibugyo</string>
+		<string>Bushenyi</string>
+		<string>Busia</string>
+		<string>Gulu</string>
+		<string>Hoima</string>
+		<string>Iganga</string>
+		<string>Jinja</string>
+		<string>Kabale</string>
+		<string>Kabarole</string>
+		<string>Kaberamaido</string>
+		<string>Kalangala</string>
+		<string>Kampala</string>
+		<string>Kamuli</string>
+		<string>Kamwenge</string>
+		<string>Kanungu</string>
+		<string>Kapchorwa</string>
+		<string>Kasese</string>
+		<string>Katakwi</string>
+		<string>Kayunga</string>
+		<string>Kibaale</string>
+		<string>Kiboga</string>
+		<string>Kisoro</string>
+		<string>Kitgum</string>
+		<string>Kotido</string>
+		<string>Kumi</string>
+		<string>Kyenjojo</string>
+		<string>Lira</string>
+		<string>Luwero</string>
+		<string>Masaka</string>
+		<string>Masindi</string>
+		<string>Mayuge</string>
+		<string>Mbale</string>
+		<string>Mbarara</string>
+		<string>Moroto</string>
+		<string>Moyo</string>
+		<string>Mpigi</string>
+		<string>Mubende</string>
+		<string>Mukono</string>
+		<string>Nakapiripirit</string>
+		<string>Nakasongola</string>
+		<string>Nebbi</string>
+		<string>Ntungamo</string>
+		<string>Pader</string>
+		<string>Pallisa</string>
+		<string>Rakai</string>
+		<string>Rukungiri</string>
+		<string>Sembabule</string>
+		<string>Sironko</string>
+		<string>Soroti</string>
+		<string>Tororo</string>
+		<string>Wakiso</string>
+		<string>Yumbe</string>
+	</array>
+	<key>Ukraine</key>
+	<array>
+		<string>Cherkas'ka Oblast'</string>
+		<string>Chernihivs'ka Oblast'</string>
+		<string>Chernivets'ka Oblast'</string>
+		<string>Dnipropetrovs'ka Oblast'</string>
+		<string>Donets'ka Oblast'</string>
+		<string>Ivano-Frankivs'ka Oblast'</string>
+		<string>Kharkivs'ka Oblast'</string>
+		<string>Khersons'ka Oblast'</string>
+		<string>Khmel'nyts'ka Oblast'</string>
+		<string>Kirovohrads'ka Oblast'</string>
+		<string>Kyiv</string>
+		<string>Kyivs'ka Oblast'</string>
+		<string>L'vivs'ka Oblast'</string>
+		<string>Luhans'ka Oblast'</string>
+		<string>Mykolaivs'ka Oblast'</string>
+		<string>Odes 'ka Oblast'</string>
+		<string>Poltavs'ka Oblast'</string>
+		<string>Respublika Krym</string>
+		<string>Rivnens'ka Oblast'</string>
+		<string>Sevastopol</string>
+		<string>Sums 'ka Oblast'</string>
+		<string>Ternopil's'ka Oblast'</string>
+		<string>Vinnyts'ka Oblast'</string>
+		<string>Volyos'ka Oblast'</string>
+		<string>Zakarpats'ka Oblast'</string>
+		<string>Zaporiz'ka Oblast'</string>
+		<string>Zhytomyrs'ka Oblast'</string>
+	</array>
+	<key>United Arab Emirates</key>
+	<array>
+		<string>'Ajman</string>
+		<string>Abu Zaby</string>
+		<string>Al Fujayrah</string>
+		<string>Ash Shariqah</string>
+		<string>Dubayy</string>
+		<string>Ra's al Khaymah</string>
+		<string>Umm al Qaywayn</string>
+	</array>
+	<key>United Kingdom</key>
+	<array>
+		<string>Aberdeen City</string>
+		<string>Aberdeenshire</string>
+		<string>Angus</string>
+		<string>Argyll and Bute</string>
+		<string>Bedfordshire</string>
+		<string>Berkshire</string>
+		<string>Bristol, City of</string>
+		<string>Buckinghamshire</string>
+		<string>Cambridgeshire</string>
+		<string>Cheshire</string>
+		<string>Clackmannanshire</string>
+		<string>Clwyd</string>
+		<string>Co Antrim</string>
+		<string>Co Armagh</string>
+		<string>Co Down</string>
+		<string>Co Fermanagh</string>
+		<string>Co Londonderry</string>
+		<string>Co Tyrone</string>
+		<string>Cornwall</string>
+		<string>County Durham</string>
+		<string>Cumbria</string>
+		<string>Derbyshire</string>
+		<string>Devon</string>
+		<string>Dorset</string>
+		<string>Dumfries and Galloway</string>
+		<string>Dundee City</string>
+		<string>Dyfed</string>
+		<string>East Ayrshire</string>
+		<string>East Dunbartonshire</string>
+		<string>East Lothian</string>
+		<string>East Renfrewshire</string>
+		<string>East Riding of Yorkshire</string>
+		<string>East Sussex</string>
+		<string>Edinburgh, City of</string>
+		<string>Essex</string>
+		<string>Falkirk</string>
+		<string>Fife</string>
+		<string>Glasgow City</string>
+		<string>Gloucestershire</string>
+		<string>Greater London</string>
+		<string>Greater Manchester</string>
+		<string>Gwent</string>
+		<string>Gwynedd</string>
+		<string>Hampshire</string>
+		<string>Herefordshire</string>
+		<string>Hertfordshire</string>
+		<string>Highland</string>
+		<string>Inverclyde</string>
+		<string>Isle of Wight</string>
+		<string>Kent</string>
+		<string>Lancashire</string>
+		<string>Leicestershire</string>
+		<string>Merseyside</string>
+		<string>Mid Glamorgan</string>
+		<string>Midlothian</string>
+		<string>Moray</string>
+		<string>Na h-Eileanan Siar</string>
+		<string>Norfolk</string>
+		<string>North Ayrshire</string>
+		<string>North Lanarkshire</string>
+		<string>North Yorkshire</string>
+		<string>Northamptonshire</string>
+		<string>Northumberland</string>
+		<string>Nottinghamshire</string>
+		<string>Oldham</string>
+		<string>Omagh</string>
+		<string>Orkney Islands</string>
+		<string>Oxfordshire</string>
+		<string>Perth and Kinross</string>
+		<string>Powys</string>
+		<string>Renfrewshire</string>
+		<string>Rutland</string>
+		<string>Scottish Borders</string>
+		<string>Shetland Islands</string>
+		<string>Shropshire</string>
+		<string>Somerset</string>
+		<string>South Ayrshire</string>
+		<string>South Glamorgan</string>
+		<string>South Gloucestershire</string>
+		<string>South Lanarkshire</string>
+		<string>South Yorkshire</string>
+		<string>Staffordshire</string>
+		<string>Stirling</string>
+		<string>Suffolk</string>
+		<string>Surrey</string>
+		<string>Tyne and Wear</string>
+		<string>Warwickshire</string>
+		<string>West Dunbartonshire</string>
+		<string>West Glamorgan</string>
+		<string>West Lothian</string>
+		<string>West Midlands</string>
+		<string>West Sussex</string>
+		<string>West Yorkshire</string>
+		<string>Wiltshire</string>
+		<string>Worcestershire</string>
+	</array>
+	<key>United States</key>
+	<array>
+		<string>Alabama</string>
+		<string>Alaska</string>
+		<string>American Samoa</string>
+		<string>Arizona</string>
+		<string>Arkansas</string>
+		<string>Armed Forces Americas</string>
+		<string>Armed Forces Europe</string>
+		<string>Armed Forces Pacific</string>
+		<string>California</string>
+		<string>Colorado</string>
+		<string>Connecticut</string>
+		<string>Delaware</string>
+		<string>District of Columbia</string>
+		<string>Florida</string>
+		<string>Georgia</string>
+		<string>Guam</string>
+		<string>Hawaii</string>
+		<string>Idaho</string>
+		<string>Illinois</string>
+		<string>Indiana</string>
+		<string>Iowa</string>
+		<string>Kansas</string>
+		<string>Kentucky</string>
+		<string>Louisiana</string>
+		<string>Maine</string>
+		<string>Maryland</string>
+		<string>Massachusetts</string>
+		<string>Michigan</string>
+		<string>Minnesota</string>
+		<string>Mississippi</string>
+		<string>Missouri</string>
+		<string>Montana</string>
+		<string>Nebraska</string>
+		<string>Nevada</string>
+		<string>New Hampshire</string>
+		<string>New Jersey</string>
+		<string>New Mexico</string>
+		<string>New York</string>
+		<string>North Carolina</string>
+		<string>North Dakota</string>
+		<string>Northern Mariana Islands</string>
+		<string>Ohio</string>
+		<string>Oklahoma</string>
+		<string>Oregon</string>
+		<string>Pennsylvania</string>
+		<string>Puerto Rico</string>
+		<string>Rhode Island</string>
+		<string>South Carolina</string>
+		<string>South Dakota</string>
+		<string>Tennessee</string>
+		<string>Texas</string>
+		<string>United States Minor Outlying Islands</string>
+		<string>Utah</string>
+		<string>Vermont</string>
+		<string>Virgin Islands</string>
+		<string>Virginia</string>
+		<string>Washington</string>
+		<string>West Virginia</string>
+		<string>Wisconsin</string>
+		<string>Wyoming</string>
+	</array>
+	<key>United States Minor Outlying Islands</key>
+	<array>
+		<string>Baker Island</string>
+		<string>Howland Island</string>
+		<string>Jarvis Island</string>
+		<string>Johnston Atoll</string>
+		<string>Kingman Reef</string>
+		<string>Midway Islands</string>
+		<string>Navassa Island</string>
+		<string>Palmyra Atoll</string>
+		<string>Wake Ialand</string>
+	</array>
+	<key>Uruguay</key>
+	<array>
+		<string>Artigsa</string>
+		<string>Canelones</string>
+		<string>Cerro Largo</string>
+		<string>Colonia</string>
+		<string>Durazno</string>
+		<string>Flores</string>
+		<string>Lavalleja</string>
+		<string>Maldonado</string>
+		<string>Montevideo</string>
+		<string>Paysandu</string>
+		<string>Rivera</string>
+		<string>Rocha</string>
+		<string>Salto</string>
+		<string>Soriano</string>
+		<string>Tacuarembo</string>
+		<string>Treinta y Tres</string>
+	</array>
+	<key>Uzbekistan</key>
+	<array>
+		<string>Andijon</string>
+		<string>Buxoro</string>
+		<string>Farg'ona</string>
+		<string>Jizzax</string>
+		<string>Khorazm</string>
+		<string>Namangan</string>
+		<string>Navoiy</string>
+		<string>Qashqadaryo</string>
+		<string>Qoraqalpogiston Respublikasi</string>
+		<string>Samarqand</string>
+		<string>Sirdaryo</string>
+		<string>Surxondaryo</string>
+		<string>Toshkent</string>
+		<string>Toshkent (city)</string>
+		<string>Xorazm</string>
+	</array>
+	<key>Vanuatu</key>
+	<array>
+		<string>Malampa</string>
+		<string>Penama</string>
+		<string>Sanma</string>
+		<string>Shefa</string>
+		<string>Tafea</string>
+		<string>Torba</string>
+	</array>
+	<key>Venezuela</key>
+	<array>
+		<string>Anzoategui</string>
+		<string>Apure</string>
+		<string>Aragua</string>
+		<string>Barinas</string>
+		<string>Carabobo</string>
+		<string>Cojedes</string>
+		<string>Delta Amacuro</string>
+		<string>Dependencias Federales</string>
+		<string>Diatrito Federal</string>
+		<string>Falcon</string>
+		<string>Guarico</string>
+		<string>Lara</string>
+		<string>Merida</string>
+		<string>Miranda</string>
+		<string>Monagas</string>
+		<string>Nueva Esparta</string>
+		<string>Portuguesa</string>
+		<string>Tachira</string>
+		<string>Trujillo</string>
+		<string>Vargas</string>
+		<string>Yaracuy</string>
+		<string>Zulia</string>
+	</array>
+	<key>Viet Nam</key>
+	<array>
+		<string>An Giang</string>
+		<string>Ba Ria - Vung Tau</string>
+		<string>Bac Can</string>
+		<string>Bac Giang</string>
+		<string>Bac Lieu</string>
+		<string>Bac Ninh</string>
+		<string>Ben Tre</string>
+		<string>Binh Dinh</string>
+		<string>Binh Duong</string>
+		<string>Binh Phuoc</string>
+		<string>Binh Thuan</string>
+		<string>Ca Mau</string>
+		<string>Can Tho</string>
+		<string>Cao Bang</string>
+		<string>Da Nang, thanh pho</string>
+		<string>Dac Lac</string>
+		<string>Dong Nai</string>
+		<string>Dong Thap</string>
+		<string>Gia Lai</string>
+		<string>Ha Giang</string>
+		<string>Ha Nam</string>
+		<string>Ha Noi, thu do</string>
+		<string>Ha Tay</string>
+		<string>Ha Tinh</string>
+		<string>Hai Duong</string>
+		<string>Hai Phong, thanh pho</string>
+		<string>Ho Chi Minh, thanh pho [Sai Gon]</string>
+		<string>Hoa Binh</string>
+		<string>Hung Yen</string>
+		<string>Khanh Hoa</string>
+		<string>Kien Giang</string>
+		<string>Kon Tum</string>
+		<string>Lai Chau</string>
+		<string>Lam Dong</string>
+		<string>Lang Son</string>
+		<string>Lao Cai</string>
+		<string>Long An</string>
+		<string>Nam Dinh</string>
+		<string>Nghe An</string>
+		<string>Ninh Binh</string>
+		<string>Ninh Thuan</string>
+		<string>Phu Tho</string>
+		<string>Phu Yen</string>
+		<string>Quang Binh</string>
+		<string>Quang Nam</string>
+		<string>Quang Ngai</string>
+		<string>Quang Ninh</string>
+		<string>Quang Tri</string>
+		<string>Soc Trang</string>
+		<string>Son La</string>
+		<string>Tay Ninh</string>
+		<string>Thai Binh</string>
+		<string>Thai Nguyen</string>
+		<string>Thanh Hoa</string>
+		<string>Thua Thien-Hue</string>
+		<string>Tien Giang</string>
+		<string>Tra Vinh</string>
+		<string>Tuyen Quang</string>
+		<string>Vinh Long</string>
+		<string>Vinh Phuc</string>
+		<string>Yen Bai</string>
+	</array>
+	<key>Yemen</key>
+	<array>
+		<string>Abyan</string>
+		<string>Ad Dali</string>
+		<string>Adan</string>
+		<string>Al Bayda'</string>
+		<string>Al Hudaydah</string>
+		<string>Al Mahrah</string>
+		<string>Al Mahwit</string>
+		<string>Amran</string>
+		<string>Dhamar</string>
+		<string>Hadramawt</string>
+		<string>Hajjah</string>
+		<string>Ibb</string>
+		<string>Lahij</string>
+		<string>Ma'rib</string>
+		<string>Sa'dah</string>
+		<string>San'a'</string>
+		<string>Shabwah</string>
+		<string>Ta'izz</string>
+	</array>
+	<key>Zambia</key>
+	<array>
+		<string>Copperbelt</string>
+		<string>Luapula</string>
+		<string>Lusaka</string>
+		<string>North-Western</string>
+	</array>
+	<key>Zimbabwe</key>
+	<array>
+		<string>Bulawayo</string>
+		<string>Harare</string>
+		<string>Manicaland</string>
+		<string>Mashonaland Central</string>
+		<string>Mashonaland East</string>
+		<string>Mashonaland West</string>
+		<string>Masvingo</string>
+		<string>Matabeleland North</string>
+		<string>Matabeleland South</string>
+		<string>Midlands</string>
+	</array>
+	<key>ôte d'Ivoire</key>
+	<array>
+		<string>18 Montagnes</string>
+		<string>Agnebi</string>
+		<string>Bas-Sassandra</string>
+		<string>Denguele</string>
+		<string>Haut-Sassandra</string>
+		<string>Lacs</string>
+		<string>Lagunes</string>
+		<string>Marahoue</string>
+		<string>Moyen-Comoe</string>
+		<string>Nzi-Comoe</string>
+		<string>Savanes</string>
+		<string>Sud-Bandama</string>
+		<string>Sud-Comoe</string>
+		<string>Vallee du Bandama</string>
+		<string>Worodouqou</string>
+		<string>Zanzan</string>
+	</array>
+</dict>
+</plist>
