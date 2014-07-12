@@ -147,7 +147,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
-				ORGANIZATIONNAME = Canopus;
+				ORGANIZATIONNAME = Iftekhar;
 			};
 			buildConfigurationList = C0C84EFB17776390002B00EC /* Build configuration list for PBXProject "CountryStateDemo" */;
 			compatibilityVersion = "Xcode 3.2";

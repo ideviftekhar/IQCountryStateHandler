@@ -3,7 +3,7 @@
 //  CountryStateDemo
 //
 //  Created by Mohd Iftekhar Qurashi on 23/06/13.
-//  Copyright (c) 2013 Canopus. All rights reserved.
+//  Copyright (c) 2013 Iftekhar. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
